@@ -1,4 +1,0 @@
-baseURL = 'https://john4web.github.io/cook/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'PaperMod'
