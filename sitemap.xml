@@ -2,19 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://john4web.github.io/cook/categories/</loc>
+  </url><url>
     <loc>https://john4web.github.io/cook/docs/</loc>
-    <lastmod>2026-02-27T23:31:57+01:00</lastmod>
+  </url><url>
+    <loc>https://john4web.github.io/cook/docs/erdbeer-proteinmilch/</loc>
   </url><url>
     <loc>https://john4web.github.io/cook/</loc>
-    <lastmod>2026-02-27T23:31:57+01:00</lastmod>
   </url><url>
-    <loc>https://john4web.github.io/cook/docs/test/</loc>
-    <lastmod>2026-02-27T23:31:57+01:00</lastmod>
+    <loc>https://john4web.github.io/cook/categories/mittagessen/</loc>
   </url><url>
-    <loc>https://john4web.github.io/cook/categories/</loc>
+    <loc>https://john4web.github.io/cook/docs/r%C3%BChrei-kartoffeln/</loc>
   </url><url>
     <loc>https://john4web.github.io/cook/search/</loc>
   </url><url>
+    <loc>https://john4web.github.io/cook/categories/shakes/</loc>
+  </url><url>
     <loc>https://john4web.github.io/cook/tags/</loc>
+  </url><url>
+    <loc>https://john4web.github.io/cook/tags/vegetarisch/</loc>
   </url>
 </urlset>
