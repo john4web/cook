@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shakes on Gersti Cooks</title>
+    <link>http://localhost:1313/cook/categories/shakes/</link>
+    <description>Recent content in Shakes on Gersti Cooks</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/cook/categories/shakes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erdbeer-Proteinmilch</title>
+      <link>http://localhost:1313/cook/docs/erdbeer-proteinmilch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cook/docs/erdbeer-proteinmilch/</guid>
+      <description>&lt;h2 id=&#34;-kategorie&#34;&gt;📁 Kategorie&lt;/h2&gt;
+&lt;p&gt;Shake&lt;/p&gt;
+&lt;h2 id=&#34;zutaten&#34;&gt;🗒️Zutaten&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;400ml NÖM Vollmilch (3,5% Fett)&lt;/li&gt;
+&lt;li&gt;150g Erdbeeren&lt;/li&gt;
+&lt;li&gt;2TL Honig&lt;/li&gt;
+&lt;li&gt;10g Proteinpulver Geschmacksneutral (Marke: &amp;ldquo;Bulk Pure Whey Protein&amp;rdquo;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-zubereitung&#34;&gt;🔪 Zubereitung&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Erdbeeren waschen und Grünzeug wegschneiden&lt;/li&gt;
+&lt;li&gt;Alle Zutaten in den Mixer geben&lt;/li&gt;
+&lt;li&gt;Nach dem Mixen den Shake für kurze Zeit in den Gefrierschrank geben&lt;/li&gt;
+&lt;li&gt;Nochmal aufmixen, servieren und genießen!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;Je länger/öfter man mixt, desto schaumiger wird der Shake!&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-nährwerte&#34;&gt;⚖️ Nährwerte&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Makro&lt;/th&gt;
+          &lt;th&gt;Anteil&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kalorien&lt;/td&gt;
+          &lt;td&gt;379,20 kcal&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Protein&lt;/td&gt;
+          &lt;td&gt;22,10 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Fett&lt;/td&gt;
+          &lt;td&gt;15,30 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;davon ges. Fett&lt;/td&gt;
+          &lt;td&gt;8,80 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Carbs&lt;/td&gt;
+          &lt;td&gt;36,35 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;davon Zucker&lt;/td&gt;
+          &lt;td&gt;35,75 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ballaststoffe&lt;/td&gt;
+          &lt;td&gt;2,25 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Salz&lt;/td&gt;
+          &lt;td&gt;0,44 g&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;-zubereitungszeit&#34;&gt;⏰ Zubereitungszeit&lt;/h2&gt;
+&lt;p&gt;ca. 8 Minuten&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

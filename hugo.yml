@@ -1,6 +1,6 @@
 baseURL: 'https://john4web.github.io/cook/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: 'Gersti Cooks'
 theme: 'PaperMod'
 
 outputs:
@@ -30,11 +30,7 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
     - identifier: search
       name: search
       url: /search/
-      weight: 40
+      weight: 30

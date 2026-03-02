@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mittagessen on Gersti Cooks</title>
+    <link>http://localhost:1313/cook/categories/mittagessen/</link>
+    <description>Recent content in Mittagessen on Gersti Cooks</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/cook/categories/mittagessen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rührei-Kartoffeln</title>
+      <link>http://localhost:1313/cook/docs/r%C3%BChrei-kartoffeln/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cook/docs/r%C3%BChrei-kartoffeln/</guid>
+      <description>&lt;h2 id=&#34;-kategorie&#34;&gt;📁 Kategorie&lt;/h2&gt;
+&lt;p&gt;Mittagessen&lt;/p&gt;
+&lt;h2 id=&#34;zutaten&#34;&gt;🗒️Zutaten&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;500g Kartoffeln&lt;/li&gt;
+&lt;li&gt;1 Zwiebel&lt;/li&gt;
+&lt;li&gt;2 Zehen Knoblauch&lt;/li&gt;
+&lt;li&gt;2 EL Rapsöl&lt;/li&gt;
+&lt;li&gt;5 Eier der Größe L (ca. 330g)&lt;/li&gt;
+&lt;li&gt;1 Scheibe Gouda mit 29% Fett (ca. 40 g)&lt;/li&gt;
+&lt;li&gt;2 EL Schnittlauch&lt;/li&gt;
+&lt;li&gt;3 Prisen Salz&lt;/li&gt;
+&lt;li&gt;1/2 TL Pfeffer&lt;/li&gt;
+&lt;li&gt;2 TL Sojasoße&lt;/li&gt;
+&lt;li&gt;1 TL Paprikapulver&lt;/li&gt;
+&lt;li&gt;1/2 TL Majoran&lt;/li&gt;
+&lt;li&gt;100g Tiefkühl-Gemüse (Karotten, Erbsen, Mais, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;1 Schuss NÖM Vollmilch (3,5% Fett)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-zubereitung&#34;&gt;🔪 Zubereitung&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Kartoffel schälen, würfeln und für 8 Minuten in kochendes Wasser geben&lt;/li&gt;
+&lt;li&gt;Leicht gekochte Kartoffeln abseien und in ÖL in der Pfanne rausbraten&lt;/li&gt;
+&lt;li&gt;Nachdem die Kartoffeln goldbraun sind: Zwiebel würfeln und mitbraten bis sie glasig sind&lt;/li&gt;
+&lt;li&gt;gepressten Knoblauch und Paprikapulver dazugeben&lt;/li&gt;
+&lt;li&gt;Eier mit einem Schuss Milch und 3 Prisen Salz verrühren und dazugeben&lt;/li&gt;
+&lt;li&gt;Die Gouda-Scheibe dazugeben&lt;/li&gt;
+&lt;li&gt;Tiefkühl-Gemüse in der Mikrowelle auftauen und dazugeben&lt;/li&gt;
+&lt;li&gt;Pfeffer, Majoran, Schnittlauch und Sojasoße dazugeben&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;-nährwerte&#34;&gt;⚖️ Nährwerte&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Makro&lt;/th&gt;
+          &lt;th&gt;Anteil&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kalorien&lt;/td&gt;
+          &lt;td&gt;1.365,60 kcal&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Protein&lt;/td&gt;
+          &lt;td&gt;66,20 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Fett&lt;/td&gt;
+          &lt;td&gt;71,88 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;davon ges. Fett&lt;/td&gt;
+          &lt;td&gt;20,52 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kohlenhydrate&lt;/td&gt;
+          &lt;td&gt;107,75 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;davon Zucker&lt;/td&gt;
+          &lt;td&gt;17,31 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ballaststoffe&lt;/td&gt;
+          &lt;td&gt;16,63 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Salz&lt;/td&gt;
+          &lt;td&gt;4,86 g&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;-zubereitungszeit&#34;&gt;⏰ Zubereitungszeit&lt;/h2&gt;
+&lt;p&gt;ca. 45 Minuten&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
