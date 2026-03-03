@@ -22,8 +22,7 @@ Shake
 
 1. Erdbeeren waschen und Grünzeug wegschneiden  
 2. Alle Zutaten in den Mixer geben  
-3. Nach dem Mixen den Shake für kurze Zeit in den Gefrierschrank geben  
-4. Nochmal aufmixen, servieren und genießen!  
+3. Mixen, servieren und genießen!  
 
 _Je länger/öfter man mixt, desto schaumiger wird der Shake!_
 
