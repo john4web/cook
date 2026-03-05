@@ -1,8 +1,8 @@
 ---
-title: "Erdbeer-Proteinmilch"
+title: "Erdbeer-Milchshake"
 draft: false
 cover:
-    image: img/shakes/erdbeer-proteinmilch.jpg
+    image: img/shakes/erdbeer-milchshake.jpg
 tags: ["Vegetarisch"]
 categories: ["Shakes"]
 ---
@@ -14,13 +14,13 @@ Shake
 ## 🗒️Zutaten
 
 - 400ml NÖM Vollmilch (3,5% Fett)
-- 150g Erdbeeren
+- 150g Erdbeeren (frisch oder tiefgefroren)
 - 2TL Honig
 - 10g Proteinpulver Geschmacksneutral (Marke: "Bulk Pure Whey Protein")
 
 ## 🔪 Zubereitung
 
-1. Erdbeeren waschen und Grünzeug wegschneiden  
+1. Erdbeeren waschen und Grünzeug wegschneiden   
 2. Alle Zutaten in den Mixer geben  
 3. Mixen, servieren und genießen!  
 

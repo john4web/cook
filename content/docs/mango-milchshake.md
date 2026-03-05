@@ -1,8 +1,8 @@
 ---
-title: "Heidelbeer-Proteinmilch"
+title: "Mango-Milchshake"
 draft: true
 cover:
-    image: img/shakes/heidelbeer-proteinmilch.jpg
+    image: img/shakes/mango-milchshake.jpg
 tags: ["Vegetarisch"]
 categories: ["Shakes"]
 ---
@@ -13,19 +13,14 @@ Shake
 
 ## 🗒️Zutaten
 
-- 400ml NÖM Vollmilch (3,5% Fett)
-- 130g Heidelbeeren
-- 100ml kaltes Wasser
+- 400ml Milch Nöm (3,5%)
+- 150g Mangostücke (tiefgefroren)
 - 2TL Honig
-- 10g Proteinpulver Geschmacksneutral (Marke: "Bulk Pure Whey Protein")
+- 10g Proteinpulver Geschmacksneutral (Marke "Bulk Pure Whey Protein")
 
 ## 🔪 Zubereitung
 
-1. Heidelbeeren waschen  
-2. Alle Zutaten in den Mixer geben  
-3. Mixen, servieren und genießen!  
 
-_Nur kurz mixen! Wenn man länger mixt, entsteht eine Gel-artige Konsistenz durch das enthaltene Pektin._
 
 ## ⚖️ Nährwerte
 
@@ -42,7 +37,7 @@ _Nur kurz mixen! Wenn man länger mixt, entsteht eine Gel-artige Konsistenz durc
 
 ## ⏰ Zubereitungszeit
 
-ca. 5 Minuten
+ca. X Minuten
 
 ## 🥣 Portionen
 
