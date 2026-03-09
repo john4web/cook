@@ -21,8 +21,6 @@ Mittagessen
 - 1,5 TL Sesamöl
 - 2,5 EL Limettensaft (ca. 2 Limetten gepresst) 
 - 2 TL Sesam
-- 1/2 TL Mononatrium-Glutamat (E621)
-- 1 TL Hefeflocken
 
 **Bowl:**
 - 200g SPAR Veggie veganer Bio-Tempeh natur
@@ -41,7 +39,7 @@ Mittagessen
 
 ## 🔪 Zubereitung
 
-1. Marinade aus Sojasoße, Ahornsirup, Paprikapulver, Ingwerpulver, Sesamöl, Limettensaft, Sesam, Glutamat und Hefeflocken machen  
+1. Marinade aus Sojasoße, Ahornsirup, Paprikapulver, Ingwerpulver, Sesamöl, Limettensaft und Sesam machen.  
 2. Tempeh in Streifen schneiden und 10 Minuten lang mit Sieb in Topf dämpfen  
 3. Tempeh mindestens eine halbe Stunde (bestenfalls 12 Stunden über Nacht in Kühlschrank) in Marinade liegen lassen
 4. Hirse in Mikrowelle in Wasser kochen
