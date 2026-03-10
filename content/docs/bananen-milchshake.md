@@ -1,8 +1,8 @@
 ---
-title: "Bananen-Proteinmilch"
+title: "Bananen-Milchshake"
 draft: true
 cover:
-    image: img/shakes/bananen-proteinmilch.jpg
+    image: img/shakes/bananen-milchshake.jpg
 tags: ["Vegetarisch"]
 categories: ["Shakes"]
 ---
@@ -14,8 +14,10 @@ Shake
 ## 🗒️Zutaten
 
 - 400ml NÖM Vollmilch (3,5% Fett)
-- 1 Banane (130g)
+- 1 Banane (ca. 130g)
 - 10g Proteinpulver Geschmacksneutral (Marke: "Bulk Pure Whey Protein")
+
+_Je länger/öfter man mixt, desto schaumiger wird der Shake und je reifer die Banane ist, desto süßer wird der Shake!_
 
 ## 🔪 Zubereitung
 
