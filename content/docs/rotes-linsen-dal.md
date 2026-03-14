@@ -2,7 +2,7 @@
 title: "Rotes Linsen Dal"
 draft: false
 cover:
-    image: img/shakes/rotes-linsen-dal.jpg
+    image: img/main/rotes-linsen-dal.jpg
 tags: ["Vegetarisch"]
 categories: ["Mittagessen"]
 ---
