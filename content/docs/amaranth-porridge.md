@@ -46,7 +46,7 @@ ca. 37 Minuten
 
 ## 💵 Preis
 
-ca. ?€ (Stand: März 2026)
+ca. 3€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
