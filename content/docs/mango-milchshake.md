@@ -29,13 +29,13 @@ _Je länger/öfter man mixt, desto schaumiger wird der Shake!_
 
 | Makro           | Anteil     |
 | --------------- | ---------- |
-| Kalorien        | 429,7 kcal |
-| Protein         | 21,8 g     |
+| Kalorien        | 429,70 kcal |
+| Protein         | 21,80 g     |
 | Fett            | 15,45 g    |
-| davon ges. Fett | 8,8 g      |
-| Carbs           | 54,2 g     |
-| davon Zucker    | 54,2 g     |
-| Ballaststoffe   | 2,7 g      |
+| davon ges. Fett | 8,80 g      |
+| Carbs           | 54,20 g     |
+| davon Zucker    | 54,20 g     |
+| Ballaststoffe   | 2,70 g      |
 | Salz            | 0,45 g     |
 
 ## ⏰ Zubereitungszeit
