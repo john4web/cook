@@ -72,7 +72,7 @@ ca. 1 Stunde
 
 ## 💵 Preis
 
-ca. ?€ (Stand: März 2026)
+ca. 4€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
