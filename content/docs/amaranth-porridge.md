@@ -27,11 +27,11 @@ Frühstück
 
 | Makro              | Anteil|
 |--------------------|--------------------|
-| Kalorien           | 978 kcal           |
-| Protein            | 37,2 g             |
-| Fett               | 26,8 g             |
+| Kalorien           | 978,00 kcal           |
+| Protein            | 37,20 g             |
+| Fett               | 26,80 g             |
 | davon ges. Fett    | 11,85 g            |
-| Carbs              | 145,6 g            |
+| Carbs              | 145,60 g            |
 | davon Zucker       | 50,15 g            |
 | Ballaststoffe      | 17,34 g            |
 | Salz               | 0,53 g             |
