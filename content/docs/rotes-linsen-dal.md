@@ -70,6 +70,10 @@ ca. 1 Stunde
 
 (auf dem Bild ist ca. 1 Portion zu sehen)
 
+## 💵 Preis
+
+ca. 4€ (Stand: März 2026)
+
 ## ⭐ Gesundheits-Score
 
 7 von 10 Sterne
