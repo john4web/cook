@@ -1,6 +1,6 @@
 ---
 title: "Heidelbeer-Milchshake"
-draft: true
+draft: false
 cover:
     image: img/shakes/heidelbeer-milchshake.jpg
 tags: ["Vegetarisch"]
@@ -20,27 +20,29 @@ Shake
 
 ## 🔪 Zubereitung
 
-1. Heidelbeeren waschen  
-2. Alle Zutaten in den Mixer geben  
-3. Mixen und evtl absieben wenn viele Kerne drinnen sind
-4. servieren und genießen!  
+1. Heidelbeeren mit Milch mischen und mixen
+2. Fruchtfleisch und Kerne doppelt absieben
+3. Honig und Proteinpulver dazumischen
+4. Servieren und genießen!  
+
+_Je länger/öfter man mixt, desto schaumiger wird der Shake!_
 
 ## ⚖️ Nährwerte
 
-| Makro              | Anteil             |
-|--------------------|--------------------|
-| Kalorien           | kcal         |
-| Protein            |  g             |
-| Fett               |  g             |
-| davon ges. Fett    |  g              |
-| Carbs              |  g            |
-| davon Zucker       |  g            |
-| Ballaststoffe      |  g             |
-| Salz               |  g            |
+| Makro           | Anteil      |
+| --------------- | ----------- |
+| Kalorien        | 441,68 kcal |
+| Protein         | 24,45 g     |
+| Fett            | 17,85 g     |
+| davon ges. Fett | 10,69 g     |
+| Carbs           | 43,30 g     |
+| davon Zucker    | 43,00 g     |
+| Ballaststoffe   | 2,48 g      |
+| Salz            | 0,60 g      |
 
 ## ⏰ Zubereitungszeit
 
-ca. X Minuten
+ca. 15 Minuten
 
 ## 🥣 Portionen
 
@@ -48,17 +50,18 @@ ca. X Minuten
 
 ## 💵 Preis
 
-ca. X€ (Stand: März 2026)
+ca. 3,30€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-X von 10 Sterne
-
-
+7 von 10 Sterne
 
 ## ✅ Pro
-
-
+- hoher Proteingehalt durch Milch und Whey
+- viele Antioxidantien aus Heidelbeeren
+- keine künstlichen Zusatzstoffe (bei neutralem Proteinpulver)
 
 ## ❌ Con
-
+- relativ hoher Zuckergehalt
+- viele gesättigte Fettsäuren durch Vollmilch
+- Ballaststoffgehalt eher niedrig
