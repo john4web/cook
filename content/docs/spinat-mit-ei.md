@@ -25,7 +25,7 @@ Mittagessen
 ## 🔪 Zubereitung
 
 1. Kartoffeln schälen, würfeln und in Salzwasser 15 Minuten kochen
-2. Cremespinat in Topf mit Milch auftauen
+2. Cremespinat in Topf mit Milch auftauen und mit Glutamat mischen
 3. Spiegeleier in ÖL braten
 4. Alles mischen und essen 
 
