@@ -61,6 +61,8 @@ ca. 45 Minuten
 
 2 Portionen
 
+(auf dem Bild ist ca. 1 Portion zu sehen)
+
 ## 💵 Preis
 
 ca. 5€ (Stand: März 2026)
