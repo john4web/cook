@@ -23,7 +23,7 @@ Shake
 2. Alle Zutaten in den Mixer geben  
 3. Mixen, servieren und genießen!  
 
-_Je länger/öfter man mixt, desto schaumiger wird der Shake und je reifer die Banane ist, desto süßer wird der Shake!_
+_Tipp: Je länger/öfter man mixt, desto schaumiger wird der Shake und je reifer die Banane ist, desto süßer wird der Shake!_
 
 ## ⚖️ Nährwerte
 

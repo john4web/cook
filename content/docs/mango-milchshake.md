@@ -23,7 +23,7 @@ Shake
 1. Alles in den Mixer rein und mixen
 2. Genießen!
 
-_Je länger/öfter man mixt, desto schaumiger wird der Shake!_
+_Tipp: Je länger/öfter man mixt, desto schaumiger wird der Shake!_
 
 ## ⚖️ Nährwerte
 

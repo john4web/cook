@@ -25,7 +25,7 @@ Shake
 3. Honig und Proteinpulver dazumischen
 4. Servieren und genießen!  
 
-_Je länger/öfter man mixt, desto schaumiger wird der Shake!_
+_Tipp: Je länger/öfter man mixt, desto schaumiger wird der Shake!_
 
 ## ⚖️ Nährwerte
 
