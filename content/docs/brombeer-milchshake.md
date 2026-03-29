@@ -21,7 +21,7 @@ Shake
 ## 🔪 Zubereitung
 
 1. Brombeeren mit Milch mischen und mixen
-2. Fruchtfleisch und Kerne doppelt absieben
+2. Fruchtfleisch und Kerne absieben
 3. Honig und Proteinpulver dazumischen
 4. Servieren und genießen! 
 
