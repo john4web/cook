@@ -1,6 +1,6 @@
 ---
 title: "Kefir"
-draft: true
+draft: false
 cover:
     image: img/snack/kefir.jpg
 tags: ["Vegetarisch"]
