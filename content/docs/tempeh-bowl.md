@@ -1,6 +1,6 @@
 ---
 title: "Tempeh-Bowl"
-draft: true
+draft: false
 cover:
     image: img/main/tempeh-bowl.jpg
 tags: ["Vegan"]
@@ -26,7 +26,7 @@ Mittagessen
 - 200g SPAR Veggie veganer Bio-Tempeh natur
 - 80g Hirse (+180ml Wasser)
 - 1 Zwiebel
-- 2 Zehen Konoblauch
+- 2 Zehen Knoblauch
 - 2 EL Olivenöl
 - 1 Dose Spar-Vital Bio Kichererbsen (240g abgetropft)
 - 2 TL Chiasamen 
@@ -56,20 +56,21 @@ Mittagessen
 
 ## ⚖️ Nährwerte
 
-| Makro              | Anteil             |
-|--------------------|--------------------|
-| Kalorien           |  kcal         |
-| Protein            |  g             |
-| Fett               |  g             |
-| davon ges. Fett    |  g              |
-| Carbs              |  g            |
-| davon Zucker       |  g            |
-| Ballaststoffe      |  g             |
-| Salz               |  g            |
+| Makro           | Anteil       |
+| --------------- | ------------ |
+| Kalorien        | 1479,00 kcal |
+| Protein         | 75,20 g      |
+| Fett            | 69,60 g      |
+| davon ges. Fett | 11,20 g      |
+| Carbs           | 129,10 g     |
+| davon Zucker    | 32,10 g      |
+| Ballaststoffe   | 38,00 g      |
+| Salz            | 10,05 g      |
+
 
 ## ⏰ Zubereitungszeit
 
-ca. ? Minuten
+ca. 1 Stunde
 
 ## 🥣 Portionen
 
@@ -79,17 +80,22 @@ ca. ? Minuten
 
 ## 💵 Preis
 
-ca. ?€ (Stand: März 2026)
+ca. 13€ (Stand: April 2026)
 
 ## ⭐ Gesundheits-Score
 
-? von 10 Sternen
-
+9 von 10 Sternen
 
 ## ✅ Pro
 
-- 
+- sehr hoher Proteingehalt
+- extrem ballaststoffreich
+- viele Mikronährstoffe durch buntes Gemüse
+- vollständige Mahlzeit (Carbs + Protein + Fette gut kombiniert)
+- sehr gute Sättigung
+- fermentiertes Protein (Tempeh → gut für Darmflora)
+- vegan & vollwertig
 
 ## ❌ Con
 
-- 
+- hoher Salzgehalt durch Sojasoße
