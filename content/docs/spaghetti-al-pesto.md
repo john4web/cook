@@ -23,7 +23,8 @@ Mittagessen
 
 ## 🔪 Zubereitung
 
-1. Nudeln in großen Topf mit 1,25 Liter Wasser und 1 TL Salz geben.
+1. 1,25 Liter Wasser und 1 TL Salz in großen Topf geben und kochen.
+2. Nudeln in kochendes Wasser geben und 11 Minuten lang kochen.
 2. Pinienkerne vorsichtig anrösten.
 3. Einen Schöpfer Nudelwasser aufheben und Nudeln absieben.
 4. Nudeln zurück in den Topf geben und mit Pesto, Parmesan, Pinienkerne, Salz, Basilikum und geriebener Zitronenschale vermischen.
