@@ -63,7 +63,7 @@ ca. 45 Minuten
 
 ## 🥣 Portionen
 
-2 Portionen
+2 Portionen (Bild zeigt ungefähr eine Portion)
 
 ## 💵 Preis
 
