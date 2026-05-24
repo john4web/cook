@@ -3,7 +3,7 @@ title: "Mango-Chia-Pudding"
 draft: false
 cover:
     image: img/dessert/mango-chia-pudding.jpg
-tags: ["Vegan"]
+tags: ["Vegetarisch"]
 categories: ["Dessert"]
 ---
 
