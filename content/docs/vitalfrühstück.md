@@ -1,5 +1,5 @@
 ---
-title: "Vitalfrühstück"
+title: "Vital-Frühstück"
 draft: false
 cover:
     image: img/breakfast/vitalfrühstück.jpg
