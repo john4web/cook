@@ -13,7 +13,7 @@ Snack
 
 ## 🗒️Zutaten
 
-- 150g geschälte Erdnüsse
+- 150g geschälte Erdnüsse (entsprechen ca. 220g mit Schale)
 
 ## 🔪 Zubereitung
 
