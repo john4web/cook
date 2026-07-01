@@ -54,7 +54,7 @@ Gesundheits-Score: 6,8 von 10 Punkte
 - Sehr gute Proteinquelle
 - Enthält viele ungesättigte Fette
 - Liefert Ballaststoffe
-- Enthält Mikronährstoffe wie Magnesium, Vitamin E, Niacin
+- Enthält Mikronährstoffe wie Kalium, Magnesium, Zink, Vitamin E, Niacin
 
 ## ❌ Con
 
