@@ -37,10 +37,25 @@ Cay:
 - 700ml Wasser unten reingeben
 - bei kleiner Flamme 15min. ziehen lassen
 
-
 ## 🔪 Zubereitung
 
-1. 
+Platte:
+1. Brot toasten
+2. Eier kochen
+3. Gurke und Tomate schneiden
+4. alles abwiegen und schön auf den Teller legen
+
+Menemen:
+1. Paprika schneiden und mit Olivenöl anbraten bis er weich wird
+2. Tomaten klein schneiden und mitkochen
+3. sobald das ganze weich und cremig ist, die Eier dazugeben
+4. mit Petersilie bestreuen
+
+Cay:
+1. 3 TL Tee in die obere Kanne geben
+2. 700ml in der unteren Kanne zum kochen bringen
+3. 250ml köchelndes Wasser von unten oben reingeben
+4. Kannen wieder übereinander setzen und bei kleiner Flamme 15min. ziehen lassen
 
 ## ⚖️ Nährwerte
 
