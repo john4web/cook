@@ -68,7 +68,7 @@ Mittagessen
 
 ## ⏰ Zubereitungszeit
 
-ca. 45 Minuten
+ca. 45 Minuten 
 
 ## 🥣 Portionen
 
