@@ -1,6 +1,6 @@
 ---
 title: "Erdbeer-Joghurt"
-draft: true
+draft: false
 cover:
     image: img/breakfast/erdbeer-joghurt.jpg
 tags: ["Vegetarisch"]
