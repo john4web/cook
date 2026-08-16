@@ -27,7 +27,7 @@ Eierschwammerl mit Ei:
 - etwas Paprikapulver
 - etwas Zitronensaft zum drüberträufeln
 
-Backofenkartoffeln
+Backofen-Kartoffeln:
 - 350g Kartoffeln (geschält)
 - 1 EL Olivenöl
 - 1/4 TL Salz
