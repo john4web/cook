@@ -2,7 +2,7 @@
 title: "Erdbeer-Joghurt"
 draft: false
 cover:
-    image: img/breakfast/erdbeer-joghurt.jpg
+    image: img/breakfast/erdbeeren-joghurt.jpg
 tags: ["Vegetarisch"]
 categories: ["Frühstück"]
 ---
