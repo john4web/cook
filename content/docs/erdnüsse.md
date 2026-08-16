@@ -1,6 +1,6 @@
 ---
 title: "Erdnüsse"
-draft: true
+draft: false
 cover:
     image: img/snack/erdnüsse.jpg
 tags: ["Vegetarisch"]
