@@ -21,6 +21,7 @@ Eierschwammerl mit Ei:
 - 150g Spinat
 - 5 Eier
 - etwas Pfeffer
+- 1/4 TL Salz
 - etwas Schnittlauch
 - etwas Petersilie
 - etwas Thymian
@@ -65,11 +66,11 @@ Beilage:
 | Carbs           |     165,43 g |
 | davon Zucker    |      14,44 g |
 | Ballaststoffe   |      29,93 g |
-| Salz            |       4,18 g |
+| Salz            |       5,68 g |
 
 ## ⏰ Zubereitungszeit
 
-ca. ? Minuten
+ca. 1 Stunde 20 Minuten
 
 ## 🥣 Portionen
 
@@ -77,7 +78,7 @@ ca. ? Minuten
 
 ## 💵 Preis
 
-ca. ?€ (Stand: März 2026)
+ca. 10€ (Stand: August 2026)
 
 ## ⭐ Gesundheits-Score
 
