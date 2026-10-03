@@ -2,7 +2,7 @@
 title: "Lachsbrötchen"
 draft: false
 cover:
-    image: img/shakes/lachsbrötchen.jpg
+    image: img/main/lachsbrötchen.jpg
 tags: ["Fisch"]
 categories: ["Mittagessen"]
 ---
