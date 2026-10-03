@@ -13,21 +13,21 @@ Mittagessen
 
 ## 🗒️Zutaten
 
-100g Karotten
-100g Radieschen
-100g Gurken
-250g Magertopfen
-Etwas Schnittlauch
-Etwas Dill
-1/4 tl Pfeffer
-1/8 tl Salz
-1/8 tl Glutamat
-1/4 tl Paprikapulver
-Etwas Kren
-Etwas Zitronensaft
-20g Sonnenblumenkerne
-600g Roggen-Vollkornbrot (ca. 9 Scheiben)
-200g Räucherlachs
+- 100g Karotten
+- 100g Radieschen
+- 100g Gurken
+- 250g Magertopfen
+- Etwas Schnittlauch
+- Etwas Dill
+- 1/4 tl Pfeffer
+- 1/8 tl Salz
+- 1/8 tl Glutamat
+- 1/4 tl Paprikapulver
+- Etwas Kren
+- Etwas Zitronensaft
+- 20g Sonnenblumenkerne
+- 600g Roggen-Vollkornbrot (ca. 9 Scheiben)
+- 200g Räucherlachs
 
 ## 🔪 Zubereitung
 
