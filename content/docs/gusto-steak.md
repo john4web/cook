@@ -2,7 +2,7 @@
 title: "Gusto-Steak"
 draft: false
 cover:
-    image: img/main/gusto-steak.png
+    image: img/main/gusto-steak.jpg
 tags: ["Rindfleisch"]
 categories: ["Mittagessen"]
 ---
@@ -13,25 +13,28 @@ Mittagessen
 
 ## 🗒️Zutaten
 
-- 234g Tann Gusto-Steak
-- etwas schwarzer Pfeffer
-- etwas Rosmarin und Thymian
+- 234g Tann Gusto-Steak (Gourmetsteak aus Österreich)
+- 1 TL schwarzer Pfeffer
+- 1,5 EL getrockneter Rosmarin
+- 1,5 EL getrockneter Thymian
+- 1/2 Suppenwürfel (Gemüsesuppe)
 - 150g Brokkoli
 - 100g Karotten
-- 4 Cherry-Tomaten
+- 4 Cherry-Tomaten (100g)
 - 100g rote Paprika
 - 1 kleine Zucchini (200g)
 - 80g Berglinsen (Rohgewicht)
-- 2 EL Olivenöl
+- 1 EL Olivenöl
+- 1 EL Rapsöl
+- 1/2 TL Butter
+- 2 Knoblauchzehen
 - 150g Kartoffeln
 - etwas Zitronensaft
 - Frische Petersilie
 
 ## 🔪 Zubereitung
 
-**## 🔪 Zubereitung**
-
-1. Berglinsen in leicht gesalzenem Wasser (300ml) ca. 20–25 Minuten garen und anschließend abgießen.
+1. Berglinsen waschen und in 300ml Wasser und mit 1/2 Suppenwürfel kochen.
 
 2. Backofen auf 200 °C Umluft (220 °C Ober-/Unterhitze) vorheizen.
 
@@ -41,28 +44,28 @@ Mittagessen
 
 5. Das Gemüse und die Kartoffeln ca. 25–30 Minuten im Ofen rösten. Nach der Hälfte der Zeit einmal wenden.
 
-6. Währenddessen das Steak mit Pfeffer würzen und im restlichen Olivenöl von beiden Seiten scharf anbraten. Anschließend kurz ruhen lassen und in Streifen schneiden.
+6. Währenddessen das Steak mit Salz und Pfeffer auf beiden Seiten würzen und im Rapsöl von beiden Seiten scharf anbraten. Am Schluss noch die Butter, Rosmarin und Thymian in die Pfanne und das Steak mit dem Saft begießen.
 
-7. Ofengemüse und Kartoffeln mit den Berglinsen vermengen. Mit etwas Zitronensaft und frisch gehackter Petersilie abschmecken.
+7. Ofengemüse Berglinsen auf den Teller geben und mit etwas Zitronensaft und frisch gehackter Petersilie abschmecken.
 
-8. Steakstreifen darauf anrichten und genießen!
+8. Steak darauf anrichten und genießen!
 
 ## ⚖️ Nährwerte
 
-| Makro           | Anteil       |
-| --------------- | ------------ |
-| Kalorien        | 1.219,00 kcal |
-| Protein         | 83,50 g      |
-| Fett            | 62,20 g      |
-| davon ges. Fett | 12,40 g      |
-| Carbs           | 100,80 g     |
-| davon Zucker    | 17,30 g      |
-| Ballaststoffe   | 19,10 g      |
-| Salz            | 0,85 g       |
+| Makro           | Anteil        |
+|-----------------|---------------|
+| Kalorien        | 1.310,00 kcal |
+| Protein         | 85,50 g       |
+| Fett            | 66,80 g       |
+| davon ges. Fett | 13,50 g       |
+| Carbs           | 111,20 g      |
+| davon Zucker    | 20,10 g       |
+| Ballaststoffe   | 23,10 g       |
+| Salz            | 2,10 g        |
 
 ## ⏰ Zubereitungszeit
 
-ca. 45 Minuten
+ca. 1 Stunde und 45 Minuten
 
 ## 🥣 Portionen
 
@@ -70,7 +73,7 @@ ca. 45 Minuten
 
 ## 💵 Preis
 
-ca. 10€ (Stand: März 2026)
+ca. 11€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
