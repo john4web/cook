@@ -46,12 +46,21 @@ Frühstück
 
 ℹ️ Infos
 
-Gesundheits-Score: ? von 10 Punkten
+Gesundheits-Score: 8 von 10 Punkten
 
 ✅ Pro
 
+- Sehr hoher Eiweißgehalt (~60 g) durch Eier, Proteinpulver, Milch und Protein-Erdnussbutter → lange satt, gut für den Muskelaufbau
+- Viele Ballaststoffe (~17 g) aus Haferflocken, Beeren, Banane und Kakao → gut für Verdauung und Blutzucker
+- Drei Obstsorten (Banane, Erdbeeren, Heidelbeeren) → Vitamin C, Kalium, Antioxidantien
+- Haferflocken liefern Beta-Glucane und komplexe Kohlenhydrate → gleichmäßige Energie
+- Überwiegend ungesättigte Fettsäuren aus der Erdnussbutter
+- Eier und Milch → Vitamin B12, Calcium, Jod
 
 
 ❌ Con
 
-
+- Relativ viel Zucker (~42 g), der großteils aus dem Obst kommt. Der Agavendicksaft ist zugesetzter Zucker und könnte wegfallen
+- Salz eher hoch (~1,5 g ≈ ¼ der Tagesempfehlung). Die Prise Salz kann man weglassen
+- Kein Gemüse
+- Verwendet Protein-Erdnussbutter und Proteinpulver, also stark verarbeitete Produkte
