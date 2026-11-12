@@ -1,4 +1,11 @@
-# Schokokuchen
+---
+title: "Schokokuchen"
+draft: false
+cover:
+    image: img/breakfast/schokokuchen.jpg
+tags: ["Vegetarisch"]
+categories: ["Frühstück"]
+---
 
 ## 📁 Kategorie
 

@@ -2,7 +2,7 @@
 title: "Pudding"
 draft: false
 cover:
-    image: img/main/pudding.jpg
+    image: img/dessert/pudding.jpg
 tags: ["Milch"]
 categories: ["Dessert"]
 ---
