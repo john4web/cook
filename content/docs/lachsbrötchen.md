@@ -53,7 +53,7 @@ Mittagessen
 
 ## ⏰ Zubereitungszeit
 
-ca. ? Minuten
+ca. 25 Minuten
 
 ## 🥣 Portionen
 
@@ -61,15 +61,25 @@ ca. ? Minuten
 
 ## 💵 Preis
 
-ca. ?€ (Stand: März 2026)
+ca. 12€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-Gesundheits-Score: ? von 10 Punkte
+7,5 von 10 Sterne
+
+Sehr protein- und ballaststoffreich mit wenig gesättigtem Fett, aber der Salzgehalt ist durch Räucherlachs und Brot sehr hoch.
 
 ## ✅ Pro
 
-
+- Sehr hoher Proteingehalt (~60 g pro Portion) durch Räucherlachs und Magertopfen
+- Extrem ballaststoffreich (~28 g pro Portion) durch Roggen-Vollkornbrot
+- Omega-3-Fettsäuren aus dem Lachs
+- Sehr wenig gesättigte Fette
+- Frisches Gemüse (Karotten, Radieschen, Gurke) und Kräuter
+- Komplexe Kohlenhydrate → lange Sättigung
 
 ## ❌ Con
 
+- Sehr hoher Salzgehalt (~6 g pro Portion → über der Tagesempfehlung), vor allem durch Räucherlachs und Brot
+- Glutamat und zusätzliches Salz sind nicht nötig und könnten weggelassen werden
+- Sehr kohlenhydratlastig durch die große Brotmenge
