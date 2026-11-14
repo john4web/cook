@@ -80,7 +80,9 @@ ca. 10€
 
 ## ⭐ Gesundheits-Score
 
-9 von 10 Sterne
+8 von 10 Sterne
+
+Sehr vielfältig mit Pilzen, Gemüse, Linsen, Quinoa und Tofu – Abzug für den Salzgehalt (~3,4 g pro Portion) durch Suppenwürfel und Glutamat sowie das gesättigte Fett aus dem Joghurt.
 
 ## ✅ Pro
 

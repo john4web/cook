@@ -56,9 +56,9 @@ ca. 3,50€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-7 von 10 Sterne
+6 von 10 Sterne
 
-Proteinreicher Shake mit echtem Vanillearoma und ohne zugesetzten Zucker, aber ohne Obst und daher ohne Ballaststoffe und mit relativ viel gesättigtem Fett.
+Proteinreich und ohne zugesetzten Zucker, aber ohne pflanzliche Lebensmittel, ohne Ballaststoffe und mit viel gesättigtem Fett aus 500 ml Vollmilch.
 
 ## ✅ Pro
 

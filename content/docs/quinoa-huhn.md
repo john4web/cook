@@ -71,9 +71,9 @@ ca. 11€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-8,5 von 10 Sterne
+8 von 10 Sterne
 
-Sehr proteinreiche, ausgewogene Hauptmahlzeit mit vielen Ballaststoffen und sehr wenig gesättigtem Fett – nur der Salzgehalt ist durch Suppenwürfel und Dosenprodukte relativ hoch.
+Mageres Huhn, Quinoa, Kidneybohnen und Skyr liefern sehr viel Protein bei kaum gesättigtem Fett – Abzug für ~3,7 g Salz pro Portion durch Suppenwürfel und Dosenprodukte.
 
 ## ✅ Pro
 

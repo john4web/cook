@@ -58,7 +58,9 @@ ca. 5€ (Stand: April 2026)
 
 ## ⭐ Gesundheits-Score
 
-9,2 von 10 Sterne
+9 von 10 Sterne
+
+Vollkornhafer, Erdnüsse, Banane und Heidelbeeren mit vielen Ballaststoffen und sehr wenig gesättigtem Fett und Salz – kleiner Abzug für den Zucker in der Vanille-Sojamilch.
 
 ## ✅ Pro
  

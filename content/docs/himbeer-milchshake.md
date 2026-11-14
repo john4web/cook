@@ -58,7 +58,7 @@ ca. 2,60€ (Stand: März 2026)
 
 7 von 10 Sterne
 
-Gute Mischung aus natürlichen Zutaten, Ballaststoffen und Protein. Aber auch relativ hoher Zuckergehalt.
+Himbeeren liefern überraschend viele Ballaststoffe – trotzdem Abzug für Honig als zugesetzten Zucker, viel gesättigtes Fett aus der Vollmilch und die geringe Vielfalt.
 
 ## ✅ Pro
 

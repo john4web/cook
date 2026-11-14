@@ -69,10 +69,9 @@ ca. 5€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-7 von 10 Sternen
+8 von 10 Sterne
 
-Das Gericht ist proteinreich, liefert Ballaststoffe und Gemüse, enthält gesunde Fette (Rapsöl) und hat moderate Kohlenhydrate.
-
+Eier, Kartoffeln und Gemüse sind solide – Abzug für eher wenig Gemüse und Ballaststoffe, den Gouda (gesättigtes Fett) und ~2,4 g Salz pro Portion.
 
 ## ✅ Pro
 

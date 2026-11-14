@@ -57,7 +57,9 @@ ca. 2,80€
 
 ## ⭐ Gesundheits-Score
 
-7 von 10 Sterne
+6 von 10 Sterne
+
+Proteinreich und kalorienarm, besteht aber hauptsächlich aus gesüßtem, aromatisiertem Proteinpulver (stark verarbeitet) mit kaum Ballaststoffen und wenig echten Lebensmitteln.
 
 ## ✅ Pro
 

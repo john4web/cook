@@ -52,7 +52,9 @@ ca. 2,50€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-8,5 von 10 Sternen
+6 von 10 Sterne
+
+Proteinreich, aber viel Zucker (~54 g inkl. Honig), kaum Ballaststoffe und viel gesättigtes Fett aus der Vollmilch.
 
 ## ✅ Pro
 

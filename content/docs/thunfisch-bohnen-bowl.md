@@ -65,7 +65,9 @@ ca. 6€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-8,5 von 10 Sterne
+7,5 von 10 Sterne
+
+Bohnen, Thunfisch, Eier, Vollkornbrot und Gemüse liefern sehr viele Ballaststoffe und Protein – deutlicher Abzug für ~5,2 g Salz (Thunfisch in Salzlake, Brot, Sojasoße).
 
 ## ✅ Pro
 

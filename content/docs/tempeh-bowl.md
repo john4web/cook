@@ -84,7 +84,9 @@ ca. 13€ (Stand: April 2026)
 
 ## ⭐ Gesundheits-Score
 
-9 von 10 Sternen
+7 von 10 Sterne
+
+Fermentierter Tempeh, Kichererbsen, Hirse, viel Gemüse und Chia sind hervorragend – deutlicher Abzug für ~5 g Salz pro Portion (3,5 EL Sojasoße) und den Ahornsirup.
 
 ## ✅ Pro
 

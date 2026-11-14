@@ -69,7 +69,7 @@ ca. 8€ (Stand: November 2026)
 
 8,5 von 10 Sterne
 
-Sehr protein- und ballaststoffreiches veganes Gericht mit überwiegend ungesättigten Fetten, aber hohem Salzgehalt durch Sojasoße.
+Tofu, Edamame, Gemüse und Erdnüsse liefern sehr viel pflanzliches Protein und Ballaststoffe – Abzug für ~3,5 g Salz pro Portion durch Sojasoße und Glutamat.
 
 ## ✅ Pro
 

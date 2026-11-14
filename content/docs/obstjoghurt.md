@@ -57,6 +57,8 @@ ca. 3,50€ (Stand: März 2026)
 
 8,5 von 10 Sterne
 
+Obst, Hafer, Mandeln und Samen liefern viele Ballaststoffe ohne zugesetzten Zucker – Abzug für das gesättigte Fett (~22 g) aus 500 g Vollmilchjoghurt.
+
 ## ✅ Pro
 
 - sehr hoher Proteingehalt für ein Frühstück

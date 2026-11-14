@@ -79,7 +79,9 @@ ca. 11,50€ (Stand: Juni 2026)
 
 ## ⭐ Gesundheits-Score
 
-8 von 10 Sterne
+6 von 10 Sterne
+
+Viel Gemüse und Quinoa, aber sehr salzig (~5,7 g pro Portion – mehr als die WHO-Tagesgrenze von 5 g) und sehr viel gesättigtes Fett (~22 g pro Portion) durch Halloumi und Suppenwürfel.
 
 ## ✅ Pro
 

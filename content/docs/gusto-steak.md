@@ -77,7 +77,9 @@ ca. 11€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-9 von 10 Sterne
+8 von 10 Sterne
+
+Sehr viel Gemüse, Linsen und Kartoffeln mit vielen Ballaststoffen – deutlicher Abzug für 234 g rotes Fleisch, dessen regelmäßiger Verzehr mit einem höheren Risiko für Herz-Kreislauf-Erkrankungen und Darmkrebs verbunden ist.
 
 ## ✅ Pro
 

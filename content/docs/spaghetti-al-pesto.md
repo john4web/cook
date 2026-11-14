@@ -58,9 +58,9 @@ ca. 6,50€ (Stand: April 2026)
 
 ## ⭐ Gesundheits-Score
 
-9 von 10 Sterne
+8 von 10 Sterne
 
-Reich an Ballaststoffen und Proteinen, viele gesunde Fette aus Pinienkernen und Pesto, moderater Salz- und Zuckeranteil!
+Dinkel-Vollkornnudeln, Pinienkerne und das Olivenöl im Pesto liefern Ballaststoffe und gute Fette – Abzug, weil Gemüse praktisch fehlt und das Fertigpesto ein verarbeitetes Produkt ist.
 
 ## ✅ Pro
 

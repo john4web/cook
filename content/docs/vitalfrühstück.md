@@ -59,6 +59,8 @@ ca. 9€ (Stand: Juni 2026)
 
 8 von 10 Sterne
 
+Vollkornbrot, Karotten, Tomaten, Apfel und probiotischer Kefir sind sehr gut – Abzug für das gesättigte Fett (~23 g) aus dem Frischkäse und ~3,2 g Salz.
+
 ## ✅ Pro
 
 - Solide Proteinmenge (~39 g) → unterstützt Muskelaufbau und Sättigung

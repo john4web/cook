@@ -68,9 +68,9 @@ ca. 6€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-8,5 von 10 Sterne
+9 von 10 Sterne
 
-Nährstoffreiches, veganes Gericht mit viel pflanzlichem Protein und Ballaststoffen, aber relativ hohem Salzgehalt durch Suppenwürfel und Sojasoße.
+Tofu, Kichererbsen, Kürbis und Kürbiskerne liefern viel pflanzliches Protein und Ballaststoffe bei wenig gesättigtem Fett – Abzug für ~3,2 g Salz pro Portion durch Suppenwürfel, Sojasoße und Glutamat.
 
 ## ✅ Pro
 

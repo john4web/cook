@@ -58,9 +58,9 @@ ca. 3,50€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-7,5 von 10 Sterne
+6,5 von 10 Sterne
 
-Durch fünf verschiedene Beerensorten besonders reich an Antioxidantien, aber wie alle Milchshakes mit relativ viel Zucker und gesättigtem Fett.
+Fünf Beerensorten liefern Polyphenole – trotzdem Abzug für Honig als zugesetzten Zucker, wenig Ballaststoffe und viel gesättigtes Fett aus der Vollmilch.
 
 ## ✅ Pro
 

@@ -73,9 +73,9 @@ ca. 9€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-Gesundheits-Score: 8,5 von 10 Sternen
+8 von 10 Sterne
 
-Ein ausgewogenes Hauptgericht mit hochwertigem Protein, guten Fetten und sättigenden Kohlenhydraten.
+Lachs liefert wertvolle Omega-3-Fettsäuren, dazu Kartoffeln und Rapsöl – Abzug für die Butter (gesättigtes Fett), wenig Gemüse und eher wenige Ballaststoffe.
 
 ## ✅ Pro
 

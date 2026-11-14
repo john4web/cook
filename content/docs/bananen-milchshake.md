@@ -54,7 +54,7 @@ ca. 1,20€ (Stand: März 2026)
 
 7 von 10 Sterne
 
-Der Shake enthält viele natürliche Zutaten und liefert eine gute Menge Protein sowie Kalium aus der Banane. Gleichzeitig enthält er durch Milchzucker und Fruchtzucker relativ viel Zucker, weshalb er eher als sättigender Snack oder Post-Workout-Shake geeignet ist als als tägliches Getränk in großen Mengen.
+Vollmilch und Banane liefern Protein und Kalium, aber kaum Ballaststoffe, wenig Vielfalt und relativ viel gesättigtes Fett – eher ein Snack als eine vollwertige Mahlzeit.
 
 ## ✅ Pro
 

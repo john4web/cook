@@ -76,14 +76,9 @@ ca. 4€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-7 von 10 Sterne
+8 von 10 Sterne
 
-Begründung:
-- Reich an pflanzlichem Protein (Linsen)
-- Hoher Ballaststoffanteil (Linsen + Vollkornreis)
-- Viele Vitamine und Mineralstoffe durch Gemüse, Tomaten, Limette
-- Gesunde Fette aus Olivenöl
-- Salz leicht erhöht durch Suppenwürfel
+Rote Linsen, Naturreis und Gewürze wie Kurkuma und Ingwer liefern viele Ballaststoffe – Abzug für das gesättigte Fett aus der Kokosmilch (~19 g pro Portion) und ~2,5 g Salz pro Portion durch den Suppenwürfel.
 
 ## ✅ Pro
 

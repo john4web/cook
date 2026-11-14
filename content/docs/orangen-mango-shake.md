@@ -58,7 +58,7 @@ ca. 2€ (Stand: November 2026)
 
 8,5 von 10 Sterne
 
-Fettarmer, proteinreicher Shake mit komplexen Kohlenhydraten aus Hafer und viel Vitamin C aus Orange und Mango – ganz ohne zugesetzten Zucker.
+Fettarm und proteinreich mit Hafer und fermentierter Buttermilch – Abzug für den Orangensaft (freier Zucker) und die eher wenigen Ballaststoffe.
 
 ## ✅ Pro
 

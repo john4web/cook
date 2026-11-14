@@ -54,7 +54,9 @@ ca. 3,30€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-7 von 10 Sterne
+6 von 10 Sterne
+
+Heidelbeeren bringen Anthocyane, aber der Shake hat kaum Ballaststoffe, Honig als zugesetzten Zucker und viel gesättigtes Fett aus der Vollmilch.
 
 ## ✅ Pro
 - hoher Proteingehalt durch Milch und Whey

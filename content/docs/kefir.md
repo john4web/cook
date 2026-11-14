@@ -49,9 +49,9 @@ ca. 3,50€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-9,5 von 10 Sterne
+8,5 von 10 Sterne
 
-Reich an lebenden Kulturen für die Darmgesundheit, gute Proteinquelle, wenig gesättigte Fette, natürliche Zucker aus Milch
+Fermentiertes Milchprodukt mit lebenden Kulturen für die Darmgesundheit, gutem Protein und wenig Fett – Abzug, weil es keine Ballaststoffe enthält; am besten als Ergänzung zu einer Mahlzeit.
 
 ## ✅ Pro
 

@@ -56,7 +56,9 @@ ca. 4€ (Stand: Juni 2026)
 
 ## ⭐ Gesundheits-Score
 
-9,3 von 10 Sterne
+9 von 10 Sterne
+
+Hafer, Apfel und vier Beerensorten liefern sehr viele Ballaststoffe und Polyphenole ohne zugesetzten Zucker – Abzug für das gesättigte Fett aus 500 ml Vollmilch.
 
 ## ✅ Pro
 

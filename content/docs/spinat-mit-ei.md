@@ -58,7 +58,9 @@ ca. 4,20€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-7,5 von 10 Sterne
+8 von 10 Sterne
+
+Spinat, Eier und Kartoffeln sind eine gute Basis – Abzug für den verarbeiteten Cremespinat, Glutamat und ~3 g Salz pro Portion.
 
 ## ✅ Pro
 - Viel Gemüseanteil (Spinat + Kartoffeln → Ballaststoffe, Vitamine, Mineralstoffe)

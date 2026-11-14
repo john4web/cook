@@ -73,11 +73,19 @@ ca. ?€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-Gesundheits-Score: ? von 10 Punkte
+8 von 10 Sterne
+
+Huhn, Erbsen, Vollkornnudeln und Haferflocken liefern viel Protein und Ballaststoffe – Abzug für ~2,5 g Salz pro Portion durch Suppenwürfel und Salz sowie das gesättigte Fett aus dem Sauerrahm.
 
 ## ✅ Pro
 
-
+- Sehr viel Protein (~65 g pro Portion) aus Huhn, Erbsen und Haferflocken
+- Viele Ballaststoffe (~22 g pro Portion) durch Erbsen, Vollkornnudeln und Hafer
+- Mageres Hühnerfleisch statt rotem Fleisch
+- Paprikapulver liefert Carotinoide und Antioxidantien
 
 ## ❌ Con
 
+- Salzgehalt (~2,5 g pro Portion) durch Suppenwürfel und zusätzliches Salz
+- Sauerrahm bringt gesättigtes Fett (~15 g pro Portion)
+- Außer Erbsen und Zwiebel wenig Gemüse

@@ -46,9 +46,9 @@ ca. 6,25€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-9 von 10 Sterne
+8 von 10 Sterne
 
-Pistazien sind ein sehr hochwertiges und nährstoffdichtes Lebensmittel
+Pistazien sind sehr nährstoffdicht und herzgesund (ungesättigte Fette, Ballaststoffe, Polyphenole), ungesalzen ideal – Abzug, weil 125 g etwa das Vierfache der empfohlenen Tagesmenge von ~30 g sind.
 
 ## ✅ Pro
 

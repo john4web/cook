@@ -51,9 +51,9 @@ ca. 4,50€ (Stand: April 2026)
 
 ## ⭐ Gesundheits-Score
 
-9,1 von 10 Sterne
+9 von 10 Sterne
 
-Der Mango-Chia-Pudding ist insgesamt ein sehr nährstoffreiches und gut ausgewogenes Dessert
+Chiasamen liefern sehr viele Ballaststoffe und Omega-3, dazu Joghurt und Mango ohne zugesetzten Zucker – kleiner Abzug für die verarbeitete Protein-Mandelmilch.
 
 ## ✅ Pro
 

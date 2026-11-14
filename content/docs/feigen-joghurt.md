@@ -56,7 +56,9 @@ ca. 6,50€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-Gesundheits-Score: 9 von 10 Punkte
+7,5 von 10 Sterne
+
+Feigen und drei Nusssorten liefern Ballaststoffe, Polyphenole und gute Fette – Abzug für sehr viel gesättigtes Fett (~28 g) aus dem 10%-Joghurt und den Honig.
 
 ## ✅ Pro
 

@@ -54,9 +54,9 @@ ca. 5,50€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-9 von 10 Sterne
+8 von 10 Sterne
 
-Proteinreiches, sättigendes Frühstück mit viel Obst und Ballaststoffen, aber recht viel gesättigtem Fett durch den 10%-Joghurt.
+Viele Erdbeeren, Chia und Hafer liefern Ballaststoffe und Antioxidantien ohne zugesetzten Zucker – Abzug für sehr viel gesättigtes Fett (~29 g) aus dem 10%-Joghurt.
 
 ## ✅ Pro
 

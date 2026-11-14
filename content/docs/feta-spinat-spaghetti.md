@@ -63,9 +63,9 @@ ca. 8€ (Stand: April 2026)
 
 ## ⭐ Gesundheits-Score
 
-8,9 von 10 Sterne
+7,5 von 10 Sterne
 
-Das Gericht ist sehr nährstoffreich und ausgewogen.
+Dinkel-Vollkornnudeln, Spinat und Tomaten sind eine gute Basis – Abzug für viel gesättigtes Fett (~17 g pro Portion) und ~3 g Salz pro Portion durch 200 g Feta.
 
 ## ✅ Pro
 

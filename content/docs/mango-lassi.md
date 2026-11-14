@@ -57,9 +57,9 @@ ca. 2€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-6,5 von 10 Sterne
+6 von 10 Sterne
 
-Erfrischendes, leichtes Dessert mit Probiotika aus dem Joghurt und Vitaminen aus der Mango, aber mit viel Zucker und eher wenig Protein.
+Der Joghurt bringt Probiotika, aber der Lassi hat kaum Ballaststoffe, wenig Protein, Honig als zugesetzten Zucker und viel gesättigtes Fett aus Milch und Joghurt.
 
 ## ✅ Pro
 

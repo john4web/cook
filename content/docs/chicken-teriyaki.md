@@ -66,9 +66,9 @@ ca. 8€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-7,5 von 10 Sterne
+6,5 von 10 Sterne
 
-Proteinreiches Hauptgericht mit Vollkornreis, wenig gesättigtem Fett und dank salzreduzierter Sojasoße moderatem Salzgehalt, aber durch Honig/Agavendicksaft recht zuckerreich.
+Mageres Huhn, Vollkornreis und Brokkoli sind eine gute Basis, aber 4 EL Honig/Agavendicksaft bringen viel zugesetzten Zucker (~40 g pro Portion) und die Sojasoße ~3 g Salz pro Portion.
 
 ## ✅ Pro
 

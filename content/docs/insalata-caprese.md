@@ -56,7 +56,9 @@ ca. 4,50€ (Stand: April 2026)
 
 ## ⭐ Gesundheits-Score
 
-9 von 10 Sterne
+8 von 10 Sterne
+
+Tomaten, Olivenöl und Roggen-Vollkornbrot sind mediterran und gut – Abzug für das gesättigte Fett aus einer ganzen Mozzarella und ~2,2 g Salz.
 
 ## ✅ Pro
 

@@ -47,7 +47,9 @@ ca. 1,89€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-Gesundheits-Score: 6,8 von 10 Punkte
+8 von 10 Sterne
+
+Nüsse gehören zu den am besten belegten Lebensmitteln für ein langes Leben (Herz-Kreislauf, Sterblichkeit) – Abzug, weil 150 g etwa das Fünffache der empfohlenen Tagesmenge von ~30 g sind.
 
 ## ✅ Pro
 

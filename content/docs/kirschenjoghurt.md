@@ -56,7 +56,9 @@ ca. 5,50€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-9 von 10 Sterne
+8 von 10 Sterne
+
+Kirschen, Mandeln, Kürbiskerne, Hanf, Chia und Hafer sind sehr vielfältig und ohne zugesetzten Zucker – Abzug für sehr viel gesättigtes Fett (~28 g) aus dem 10%-Joghurt.
 
 ## ✅ Pro
 

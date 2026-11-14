@@ -53,9 +53,9 @@ ca. 3€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-7 von 10 Sterne
+6 von 10 Sterne
 
-Ein nährstoffreicher Shake mit hochwertigem Eiweiß und frischen Zutaten aber mit viel Zucker und gesättigtem Fett.
+Proteinreich, aber kaum Ballaststoffe, Honig als zugesetzter Zucker und viel gesättigtes Fett aus der Vollmilch bei geringer Vielfalt.
 
 ## ✅ Pro
 

@@ -64,6 +64,8 @@ ca. 5€ (Stand: November 2026)
 
 8 von 10 Sterne
 
+Hafer, Eier, Quark, Hanfsamen und Heidelbeeren liefern viel Protein und gute Fette ohne zugesetzten Zucker – Abzug für das gesättigte Fett und das fehlende Gemüse.
+
 ## ✅ Pro
 
 - Hohe Kaloriendichte – ideal für einen sicheren Energieüberschuss

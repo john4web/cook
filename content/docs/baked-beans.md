@@ -71,7 +71,9 @@ ca. 10€ (Stand: Mai 2026)
 
 ## ⭐ Gesundheits-Score
 
-9 von 10 Sterne
+8,5 von 10 Sterne
+
+Bohnen, Tofu, Tomaten und Vollkornbrot liefern sehr viele Ballaststoffe und pflanzliches Protein bei kaum gesättigtem Fett – Abzug für den hohen Salzgehalt (~4,3 g pro Portion) aus Brot und Glutamat.
 
 ## ✅ Pro
 

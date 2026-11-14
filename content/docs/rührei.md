@@ -62,7 +62,9 @@ ca. 6€ (Stand: Juni 2026)
 
 ## ⭐ Gesundheits-Score
 
-9 von 10 Sterne
+7,5 von 10 Sterne
+
+Eier, Vollkornbrot, Mandeln, Heidelbeeren und gute Öle liefern Ballaststoffe – Abzug für ~3,7 g Salz (4 Prisen und Brot) und weil 5 Eier für eine Portion sehr viel sind.
 
 ## ✅ Pro
 

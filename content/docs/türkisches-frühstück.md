@@ -84,7 +84,9 @@ ca. 5,50€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-8 von 10 Sterne
+7 von 10 Sterne
+
+Sehr viel Gemüse, Oliven, Olivenöl und Eier – aber Feta, Gouda und Frischkäse bringen viel gesättigtes Fett (~20 g), zusammen mit Oliven und Acuka ~3,8 g Salz, dazu Honig.
 
 ## ✅ Pro
 

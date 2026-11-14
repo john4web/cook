@@ -52,7 +52,9 @@ ca. 3€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-Gesundheits-Score: 9 von 10 Punkte
+9 von 10 Sterne
+
+Vollkorn-Bulgur, Apfel und Mandeln liefern viele Ballaststoffe bei wenig Salz und ohne zugesetzten Zucker – kleiner Abzug für das gesättigte Fett aus der Vollmilch und das fehlende Gemüse.
 
 ## ✅ Pro
 

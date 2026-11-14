@@ -82,7 +82,9 @@ ca. 10€ (Stand: August 2026)
 
 ## ⭐ Gesundheits-Score
 
-Gesundheits-Score: 9 von 10 Punkte
+9,5 von 10 Sterne
+
+Sehr ausgewogen mit Pilzen, Spinat, Linsen, Quinoa, Kartoffeln und Eiern – viele Ballaststoffe, wenig gesättigtes Fett, kein zugesetzter Zucker; einziger Abzug für ~2,8 g Salz pro Portion.
 
 ## ✅ Pro
 

@@ -61,7 +61,9 @@ ca. 4€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-7,5 von 10 Sterne
+8,5 von 10 Sterne
+
+Hafer, Eier, Erdnüsse, Banane und Beeren liefern viel Protein und Ballaststoffe – Abzug für den Agavendicksaft (zugesetzter Zucker) und etwas gesättigtes Fett.
 
 ## ✅ Pro
 

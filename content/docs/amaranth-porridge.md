@@ -50,9 +50,9 @@ ca. 3€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-7 von 10 Sterne
+8,5 von 10 Sterne
 
-Sehr nährstoffreich, ausgewogen und vollwertig. Ideal als Frühstück oder Hauptmahlzeit.
+Vollwertiges Frühstück aus Vollkorn-Amaranth, Apfel und Milch mit vielen Ballaststoffen, wenig Salz und ohne zugesetzten Zucker – Abzug für die geringe Vielfalt (kein Gemüse, keine Nüsse/Samen) und das gesättigte Fett aus der Vollmilch.
 
 ## ✅ Pro
 

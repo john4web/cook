@@ -66,7 +66,9 @@ ca. 8€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-8 von 10 Sternen
+7 von 10 Sterne
+
+Mageres Huhn, Brokkoli und Vollkornhirse sind eine gute Basis – deutlicher Abzug für 250 ml Schlagobers (~32 g gesättigtes Fett pro Portion) und den Suppenwürfel.
 
 ## ✅ Pro
 

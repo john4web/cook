@@ -63,9 +63,9 @@ ca. 3,50€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-8,5 von 10 Sterne
+9 von 10 Sterne
 
-Sehr proteinreicher und ballaststoffreicher Shake mit wenig gesättigtem Fett – süß nur durch Datteln und Banane, ohne zugesetzten Zucker.
+Sehr vielfältig mit Flohsamen, Chia, Hafer, Banane, Datteln, Backkakao und Erdnüssen – viele Ballaststoffe und kein zugesetzter Zucker; kleiner Abzug für etwas gesättigtes Fett und die verarbeitete Protein-Mandelmilch.
 
 ## ✅ Pro
 

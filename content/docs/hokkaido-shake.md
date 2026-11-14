@@ -58,6 +58,8 @@ ca. 2€ (Stand: März 2026)
 
 8,5 von 10 Sterne
 
+Kürbis, Leinsamen, Pekannüsse, Hafer und Soja liefern Ballaststoffe und Omega-3 bei wenig gesättigtem Fett – kleiner Abzug für den gesüßten Vanillejoghurt und das aromatisierte Eiweißpulver.
+
 ## ✅ Pro
 
 - Hoher Proteingehalt → unterstützt Sättigung und Muskelerhalt

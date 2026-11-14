@@ -67,7 +67,7 @@ ca. 12€ (Stand: November 2026)
 
 7,5 von 10 Sterne
 
-Sehr protein- und ballaststoffreich mit wenig gesättigtem Fett, aber der Salzgehalt ist durch Räucherlachs und Brot sehr hoch.
+Viel Vollkorn, Gemüse, Topfen und Omega-3 aus dem Lachs bei kaum gesättigtem Fett – deutlicher Abzug für ~6 g Salz pro Portion (Räucherlachs, Brot, Glutamat) und weil Räucherfisch ein verarbeitetes Produkt ist.
 
 ## ✅ Pro
 

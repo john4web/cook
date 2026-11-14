@@ -65,9 +65,9 @@ ca. 6€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-8,5 von 10 Sterne
+9 von 10 Sterne
 
-Cremiges, mild-süßes Frühstück mit sehr viel Protein. Die Süße kommt von Banane, Beeren und Vanille-Proteinpulver statt von zugesetztem Zucker.
+Sehr viel Protein, Ballaststoffe aus Hafer, Kleie, Chia und Beeren sowie Omega-3 aus Walnüssen – kleiner Abzug für das aromatisierte Vanille-Proteinpulver und das gesättigte Fett aus dem Joghurt.
 
 ## ✅ Pro
 

@@ -67,7 +67,9 @@ ca. 3,50€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-8 von 10 Sterne
+9 von 10 Sterne
+
+Sehr vielfältig: Vollkornbrot, Nüsse, Samen, Beeren, Kakao und Joghurt mit sehr vielen Ballaststoffen und ohne zugesetzten Zucker – kleiner Abzug für ~2,2 g Salz aus dem Brot.
 
 ## ✅ Pro
 

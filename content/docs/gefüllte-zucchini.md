@@ -62,10 +62,9 @@ ca. ?€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-Gesundheits-Score: 8 von 10 Punkte
+9 von 10 Sterne
 
-Ein insgesamt sehr gesundes, proteinreiches, kalorienarmes Gericht.
-Die punktuellen Nachteile hängen hauptsächlich mit dem Salzgehalt, Dosenfisch und etwas mehr gesättigtem Fett durch den Parmesan zusammen.
+Viel Gemüse, mageres Fischprotein und Olivenöl bei moderatem Salzgehalt – kleiner Abzug für den Parmesan (gesättigtes Fett) und die eher geringen Ballaststoffe.
 
 ## ✅ Pro
 

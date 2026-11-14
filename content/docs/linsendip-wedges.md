@@ -69,7 +69,9 @@ ca. 2,50€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-Gesundheits-Score: 8,5 von 10 Punkte
+9 von 10 Sterne
+
+Rote Linsen, Kartoffeln und Olivenöl liefern viele Ballaststoffe und pflanzliches Protein bei sehr wenig gesättigtem Fett – kleiner Abzug für ~2 g Salz und wenig Gemüse.
 
 ## ✅ Pro
 

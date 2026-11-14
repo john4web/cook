@@ -61,6 +61,8 @@ ca. 4€ (Stand: Juni 2026)
 
 8 von 10 Sterne
 
+Roggen-Vollkornbrot, Erdnüsse, Banane, Heidelbeeren und Kakao liefern viele Ballaststoffe ohne zugesetzten Zucker – Abzug für ~2,9 g Salz (Brot und Prise Salz) und das gesättigte Fett aus 400 ml Vollmilch.
+
 ## ✅ Pro
 
 - Hoher Proteinanteil

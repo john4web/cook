@@ -60,7 +60,7 @@ ca. 3€ (Stand: November 2026)
 
 8 von 10 Sterne
 
-Nährstoffreicher Shake mit Antioxidantien aus dem Granatapfel und Ballaststoffen aus Chia und Hafer, aber mit relativ viel Zucker und gesättigtem Fett durch Vollmilch und Banane.
+Granatapfel, Chia, Hafer und Banane bringen Polyphenole und Ballaststoffe ohne zugesetzten Zucker – Abzug für das gesättigte Fett aus der Vollmilch und das aromatisierte Vanille-Proteinpulver.
 
 ## ✅ Pro
 

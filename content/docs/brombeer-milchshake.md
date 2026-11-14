@@ -54,7 +54,9 @@ ca. 4,80€ (Stand: März 2026)
 
 ## ⭐ Gesundheits-Score
 
-Gesundheits-Score: 8 von 10 Punkte
+6,5 von 10 Sterne
+
+Brombeeren bringen Ballaststoffe und Polyphenole, aber Honig ist zugesetzter Zucker, und die Vollmilch liefert viel gesättigtes Fett bei geringer Vielfalt.
 
 ## ✅ Pro
 
