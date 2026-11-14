@@ -17,7 +17,7 @@ Frühstück
 - 1 Prise Salz
 - 100ml Milch (Nöm 3,5% Fett)
 - 2 Eier (ca. 120g)
-- 1/2 EL Agavendicksaft
+- 1 EL Agavendicksaft
 - 1 TL Suchard Kakaopulver
 - 35g geschmolzene Erdnussbutter (Body Attack Protein Peanut Butter creamy)
 - 70g Erdbeeren
@@ -29,33 +29,33 @@ Frühstück
 ## ⚖️ Nährwerte
 
 
-| Makro                | Menge       |
-|----------------------|-------------|
-| Kalorien             | 996,80 kcal |
-| Protein              | 60,47 g     |
-| Fett                 | 40,25 g     |
-| davon ges. Fett      | 11,63 g     |
-| Kohlenhydrate        | 95,97 g     |
-| davon Zucker         | 41,75 g     |
-| Ballaststoffe        | 17,15 g     |
-| Salz                 | 1,49 g      |
+| Makro                | Menge        |
+|----------------------|--------------|
+| Kalorien             | 1028,40 kcal |
+| Protein              | 60,47 g      |
+| Fett                 | 40,25 g      |
+| davon ges. Fett      | 11,63 g      |
+| Kohlenhydrate        | 103,57 g     |
+| davon Zucker         | 48,55 g      |
+| Ballaststoffe        | 17,15 g      |
+| Salz                 | 1,49 g       |
 
 
 ## 🔪 Zubereitung
 
-⏰ 30 Minuten
+⏰ 35 Minuten
 
 1. Haferflocken mahlen
-2. Erdnussbutter inder Mikrowelle schmelzen
+2. Erdnussbutter in der Mikrowelle schmelzen
 3. Milch, Backpulver, Proteinpulver, Eier, Agavendicksaft, Salz, Kakaopulver und Haferflocken mit dem Mixer in Rührschüssel mixen
-4. in der Mikrowelle backen bis alles gut durch ist
+4. in der Mikrowelle backen bis alles gut durch ist (5 x 2 Minuten lang)
 5. Mit Banane, Erdbeeren und Heidelbeeren toppen
 
-ℹ️ Infos
+## ℹ️ Infos
 
-Gesundheits-Score: 8 von 10 Punkten
+Gesundheits-Score: 7,5 von 10 Punkten
 
-✅ Pro
+## ✅ Pro
 
 - Sehr hoher Eiweißgehalt (~60 g) durch Eier, Proteinpulver, Milch und Protein-Erdnussbutter → lange satt, gut für den Muskelaufbau
 - Viele Ballaststoffe (~17 g) aus Haferflocken, Beeren, Banane und Kakao → gut für Verdauung und Blutzucker
@@ -65,9 +65,9 @@ Gesundheits-Score: 8 von 10 Punkten
 - Eier und Milch → Vitamin B12, Calcium, Jod
 
 
-❌ Con
+## ❌ Con
 
-- Relativ viel Zucker (~42 g), der großteils aus dem Obst kommt. Der Agavendicksaft ist zugesetzter Zucker und könnte wegfallen
+- Viel Zucker (~49 g). Der Großteil kommt aus dem Obst, aber ~14 g sind zugesetzter Zucker aus dem Agavendicksaft. Mit ½ EL oder ganz ohne Agavendicksaft wäre es deutlich weniger
 - Salz eher hoch (~1,5 g ≈ ¼ der Tagesempfehlung). Die Prise Salz kann man weglassen
 - Kein Gemüse
 - Verwendet Protein-Erdnussbutter und Proteinpulver, also stark verarbeitete Produkte
