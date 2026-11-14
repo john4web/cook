@@ -1,6 +1,6 @@
 ---
 title: "Waldbeer-Milchshake"
-draft: true
+draft: false
 cover:
     image: img/shakes/waldbeer-milchshake.jpg
 tags: ["Vegetarisch"]
