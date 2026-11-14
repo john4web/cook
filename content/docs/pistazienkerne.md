@@ -21,15 +21,16 @@ Snack
 
 ## ⚖️ Nährwerte
 
-| Makro           | Anteil     |
-| --------------- | ---------- |
+| Makro           | Anteil      |
+| --------------- | ----------- |
 | Kalorien        | 768.75 kcal |
-| Fett            | 63.75 g    |
-| davon ges. Fett | 8.25 g     |
-| Carbs           | 13.75 g    |
-| davon Zucker    | 7.75 g     |
-| Eiweiß          | 28.75 g    |
-| Salz            | 0.04 g     |
+| Protein         | 28.75 g     |
+| Fett            | 63.75 g     |
+| davon ges. Fett | 8.25 g      |
+| Carbs           | 13.75 g     |
+| davon Zucker    | 7.75 g      |
+| Ballaststoffe   | 12.50 g     |
+| Salz            | 0.04 g      |
 
 ## ⏰ Zubereitungszeit
 
@@ -51,16 +52,13 @@ Pistazien sind ein sehr hochwertiges und nährstoffdichtes Lebensmittel
 
 ## ✅ Pro
 
-- Sehr nährstoffdichtes Lebensmittel mit vielen Mikronährstoffen  
-- Hochwertige Fette (vor allem ungesättigte Fettsäuren)  
-- Gute Proteinquelle für einen Snack  
-- Unterstützt gesundes Zunehmen durch hohe Energiedichte  
-- Gute Sättigung bei kleiner Menge  
+- Sehr hoher Gehalt an ungesättigten Fettsäuren → positiv für Herz und Hormonhaushalt
+- Sehr guter Proteingehalt für einen Snack → unterstützt Muskelaufbau und Sättigung
+- Reich an Mikronährstoffen (Magnesium, Kalium, Vitamin B6)
 - Enthält viele Antioxidantien und sekundäre Pflanzenstoffe
-- Sehr hoher Gehalt an ungesättigten Fettsäuren → positiv für Herz und Hormonhaushalt  
-- Sehr guter Proteingehalt → unterstützt Muskelaufbau und Sättigung  
-- Reich an Mikronährstoffen (Magnesium, Kalium, Vitamin B6, Antioxidantien)  
-- Gute Ballaststoffquelle → fördert Verdauung und Darmgesundheit  
+- Gute Ballaststoffquelle → fördert Verdauung und Darmgesundheit
+- Gute Sättigung bei kleiner Menge
+- Unterstützt gesundes Zunehmen durch hohe Energiedichte
 
 ## ❌ Con
 

@@ -23,27 +23,10 @@ Frühstück
 - 70g Erdbeeren
 - 1/2 TL Backpulver
 - 1 Banane
-- 70g heidelbeeren
+- 70g Heidelbeeren
 - 25g Proteinpulver geschmacksneutral
 
-## ⚖️ Nährwerte
-
-
-| Makro                | Menge        |
-|----------------------|--------------|
-| Kalorien             | 1028,40 kcal |
-| Protein              | 60,47 g      |
-| Fett                 | 40,25 g      |
-| davon ges. Fett      | 11,63 g      |
-| Kohlenhydrate        | 103,57 g     |
-| davon Zucker         | 48,55 g      |
-| Ballaststoffe        | 17,15 g      |
-| Salz                 | 1,49 g       |
-
-
 ## 🔪 Zubereitung
-
-⏰ 35 Minuten
 
 1. Haferflocken mahlen
 2. Erdnussbutter in der Mikrowelle schmelzen
@@ -51,9 +34,34 @@ Frühstück
 4. in der Mikrowelle backen bis alles gut durch ist (5 x 2 Minuten lang)
 5. Mit Banane, Erdbeeren und Heidelbeeren toppen
 
-## ℹ️ Infos
+## ⚖️ Nährwerte
 
-Gesundheits-Score: 7,5 von 10 Punkten
+| Makro           | Anteil       |
+| --------------- | ------------ |
+| Kalorien        | 1028,40 kcal |
+| Protein         | 60,47 g      |
+| Fett            | 40,25 g      |
+| davon ges. Fett | 11,63 g      |
+| Carbs           | 103,57 g     |
+| davon Zucker    | 48,55 g      |
+| Ballaststoffe   | 17,15 g      |
+| Salz            | 1,49 g       |
+
+## ⏰ Zubereitungszeit
+
+ca. 35 Minuten
+
+## 🥣 Portionen
+
+1 Portion
+
+## 💵 Preis
+
+ca. 4€ (Stand: November 2026)
+
+## ⭐ Gesundheits-Score
+
+7,5 von 10 Sterne
 
 ## ✅ Pro
 
@@ -63,7 +71,6 @@ Gesundheits-Score: 7,5 von 10 Punkten
 - Haferflocken liefern Beta-Glucane und komplexe Kohlenhydrate → gleichmäßige Energie
 - Überwiegend ungesättigte Fettsäuren aus der Erdnussbutter
 - Eier und Milch → Vitamin B12, Calcium, Jod
-
 
 ## ❌ Con
 

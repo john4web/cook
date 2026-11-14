@@ -47,7 +47,7 @@ Mittagessen
 | Protein         | 66,20 g       |
 | Fett            | 71,88 g      |
 | davon ges. Fett | 20,52 g      |
-| Kohlenhydrate   | 107,75 g     |
+| Carbs           | 107,75 g     |
 | davon Zucker    | 17,31 g      |
 | Ballaststoffe   | 16,63 g      |
 | Salz            | 4,86 g       |
@@ -76,8 +76,8 @@ Das Gericht ist proteinreich, liefert Ballaststoffe und Gemüse, enthält gesund
 
 ## ✅ Pro
 
-- Reich an Protein: 66 g
-- Ballaststoffreich: 16,6 g → unterstützt Verdauung
+- Reich an Protein: 66 g
+- Ballaststoffreich: 16,6 g → unterstützt Verdauung
 - Gemüseanteil: Kartoffeln, TK-Gemüse, Zwiebel, Knoblauch, Schnittlauch
 - Gesunde Fette: Rapsöl liefert Omega‑3‑Fettsäuren
 - Vielfalt an Mikronährstoffen: Eier, Milch und Gemüse liefern Vitamine und Mineralstoffe
@@ -85,6 +85,6 @@ Das Gericht ist proteinreich, liefert Ballaststoffe und Gemüse, enthält gesund
 
 ## ❌ Con
 
-- Relativ hoher Salzgehalt: 4,86 g → knapp über der empfohlenen Tagesgrenze (≈5 g)
-- Gesättigte Fette: 20,5 g → hauptsächlich aus Gouda und Eiern (schlecht für Herzgesundheit)
+- Relativ hoher Salzgehalt: 4,86 g → knapp über der empfohlenen Tagesgrenze (≈5 g)
+- Gesättigte Fette: 20,5 g → hauptsächlich aus Gouda und Eiern (schlecht für Herzgesundheit)
 - Verarbeitetes Käseprodukt: Gouda enthält konzentriertes Fett und Salz
