@@ -21,7 +21,7 @@ Frühstück
 - 1 TL Backpulver
 - 45g gefrorene Heidelbeeren
 - 3 EL Hanfsamen (= 30g)
-- 2 EL Erdnussbutter
+- 2 EL Erdnussbutter (Marke: Body Attack Protein Peanut Butter Creamy)
 - 2 EL Rapsöl
 
 ## 🔪 Zubereitung
@@ -80,4 +80,4 @@ ca. 5€ (Stand: November 2026)
 - Viel Fett (~88 g)
 - Kann, wenn als einzige große Mahlzeit genutzt, zu einseitig sein
 - Zuckeranteil aus Obst ist ok, aber trotzdem nicht ganz niedrig
-- Verwendung von Erdnussbutter erhöht Salz etwas stärker als andere Nussmuse
+- Salzgehalt (~1,8 g) vor allem durch Eier und Backpulver

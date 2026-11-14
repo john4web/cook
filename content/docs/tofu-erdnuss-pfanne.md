@@ -25,7 +25,7 @@ Mittagessen
 - 2 EL Petersilie
 - 1/8 TL Salz
 - 1/2 TL Pfeffer
-- 3 EL Erdnussbutter
+- 3 EL Erdnussbutter (Marke: Body Attack Protein Peanut Butter Creamy)
 - 4 EL Wasser
 - etwas Glutamat
 

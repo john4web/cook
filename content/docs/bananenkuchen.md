@@ -15,7 +15,7 @@ Dessert
 
 - 150g Haferflocken
 - 1 TL Backpulver
-- 50g Erdnussbutter
+- 50g Erdnussbutter (Marke: Body Attack Protein Peanut Butter Creamy)
 - 1 Banane (ca. 180g)
 - 200ml Alpro Sojamilch (Himmlischer Vanillegeschmack)
 - 1 Prise Salz

@@ -15,7 +15,7 @@ Frühstück
 
 - 400g griechischer Joghurt (10% Fett)
 - 350g frische Erdbeeren
-- 25g Proteinpulver (Geschmacksneutral)
+- 25g Proteinpulver Geschmacksneutral (Marke: "Bulk Pure Whey Protein")
 - 1 EL Chiasamen
 - 1 EL Haferkleie
 - 2 EL Haferflocken

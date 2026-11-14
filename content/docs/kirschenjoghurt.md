@@ -14,7 +14,7 @@ Frühstück
 ## 🗒️Zutaten
 
 - 400g griechisches Joghurt (10% Fett)
-- 1 EL Proteinpulver Geschmacksneutral (7g)
+- 1 EL Proteinpulver Geschmacksneutral (7g, Marke: "Bulk Pure Whey Protein")
 - 2 EL Haferkleie (14g)
 - 3 EL Haferflocken (22g)
 - 25g Mandeln

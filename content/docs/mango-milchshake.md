@@ -16,7 +16,7 @@ Shake
 - 400ml NÖM Vollmilch (3,5% Fett)
 - 150g Mangostücke (tiefgefroren)
 - 2TL Honig
-- 10g Proteinpulver Geschmacksneutral (Marke "Bulk Pure Whey Protein")
+- 10g Proteinpulver Geschmacksneutral (Marke: "Bulk Pure Whey Protein")
 
 ## 🔪 Zubereitung
 

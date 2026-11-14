@@ -25,12 +25,12 @@ Joghurt:
 
 Nutellabrot:
 - ca. 150g Roggen-Vollkornbrot
-- 12g Suchard-Express Kakao (ca. 2 EL)
+- 12g Suchard Express Backkakao (ca. 2 EL)
 - 50ml heißes Wasser
 - 20g Haselnüsse
 - 1 Medijoul-Dattel (ca. 20g ohne Stein)
 - 1 Vanilleschote (ausgekratzt)
-- 2 TL Bulk Pure Whey Proteinpulver geschmacksneutral
+- 2 TL Proteinpulver Geschmacksneutral (Marke: "Bulk Pure Whey Protein")
 
 
 ## 🔪 Zubereitung

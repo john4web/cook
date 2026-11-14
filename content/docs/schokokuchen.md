@@ -18,13 +18,13 @@ Frühstück
 - 100ml Milch (Nöm 3,5% Fett)
 - 2 Eier (ca. 120g)
 - 1 EL Agavendicksaft
-- 1 TL Suchard Kakaopulver
-- 35g geschmolzene Erdnussbutter (Body Attack Protein Peanut Butter creamy)
+- 1 TL Suchard Express Backkakao (ca. 5g)
+- 35g geschmolzene Erdnussbutter (Marke: Body Attack Protein Peanut Butter Creamy)
 - 70g Erdbeeren
 - 1/2 TL Backpulver
 - 1 Banane
 - 70g Heidelbeeren
-- 25g Proteinpulver geschmacksneutral
+- 25g Proteinpulver Geschmacksneutral (Marke: "Bulk Pure Whey Protein")
 
 ## 🔪 Zubereitung
 

@@ -18,9 +18,9 @@ Frühstück
 - 400ml NÖM Vollmilch (3,5% Fett)
 - 30g Heidelbeeren (tiefgefroren)
 - 1 Prise Salz
-- 1 TL Suchard-Express Kakaopulver
+- 1 TL Suchard Express Backkakao (ca. 5g)
 - 1/8 TL Ceylon-Zimt
-- 30g Protein Peanut Butter (Marke: Body-Attack)
+- 30g Erdnussbutter (Marke: Body Attack Protein Peanut Butter Creamy)
 
 ## 🔪 Zubereitung
 

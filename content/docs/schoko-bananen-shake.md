@@ -19,12 +19,12 @@ Shake
 - 25g Haferflocken
 - 100g Cottage-Cheese Natur
 - 300ml Protein-Mandelmilch
-- 7g Suchard-Express Kakaopulver
+- 7g Suchard Express Backkakao
 - 2 Medjoul-Datteln entsteint (40g)
-- 15g Erdnussbutter
+- 15g Erdnussbutter (Marke: Body Attack Protein Peanut Butter Creamy)
 - 100ml Wasser
 - 1 großer Eiswürfel (35g)
-- 6g Proteinpulver Geschmacklos (= 1 EL)
+- 6g Proteinpulver Geschmacksneutral (= 1 EL, Marke: "Bulk Pure Whey Protein")
 - 1/4 TL Ceylon-Zimt
 
 ## 🔪 Zubereitung
@@ -40,13 +40,13 @@ _Tipp: Flohsamen und Chiasamen binden viel Wasser – der Shake wird nach ein pa
 
 | Makro           | Anteil      |
 | --------------- | ----------- |
-| Kalorien        | 724,40 kcal |
-| Protein         | 44,21 g     |
-| Fett            | 25,46 g     |
-| davon ges. Fett | 6,18 g      |
-| Carbs           | 75,83 g     |
-| davon Zucker    | 53,96 g     |
-| Ballaststoffe   | 14,85 g     |
+| Kalorien        | 724,96 kcal |
+| Protein         | 45,44 g     |
+| Fett            | 26,76 g     |
+| davon ges. Fett | 7,01 g      |
+| Carbs           | 71,00 g     |
+| davon Zucker    | 48,63 g     |
+| Ballaststoffe   | 16,39 g     |
 | Salz            | 1,35 g      |
 
 ## ⏰ Zubereitungszeit
@@ -65,20 +65,19 @@ ca. 3,50€ (Stand: November 2026)
 
 8,5 von 10 Sterne
 
-Sehr proteinreicher und ballaststoffreicher Shake mit wenig gesättigtem Fett – süß durch Datteln und Banane, allerdings mit etwas zugesetztem Zucker aus dem Kakaopulver.
+Sehr proteinreicher und ballaststoffreicher Shake mit wenig gesättigtem Fett – süß nur durch Datteln und Banane, ohne zugesetzten Zucker.
 
 ## ✅ Pro
 
-- Sehr hoher Proteingehalt (~44 g) durch Cottage Cheese, Protein-Mandelmilch, Proteinpulver und Erdnussbutter → ideal nach dem Training
-- Viele Ballaststoffe (~15 g) durch Flohsamen, Chiasamen, Haferflocken und Datteln → lange Sättigung
+- Sehr hoher Proteingehalt (~45 g) durch Cottage Cheese, Protein-Mandelmilch, Proteinpulver und Erdnussbutter → ideal nach dem Training
+- Viele Ballaststoffe (~16 g) durch Flohsamen, Chiasamen, Haferflocken, Datteln und Backkakao → lange Sättigung
 - Wenig gesättigte Fette, überwiegend ungesättigte Fette aus Chiasamen, Erdnussbutter und Mandelmilch
 - Omega-3-Fettsäuren aus den Chiasamen
-- Natürliche Süße durch Datteln und Banane
+- Natürliche Süße durch Datteln und Banane, ungesüßter Backkakao statt Kakaogetränkpulver
 - Liefert Kalium, Magnesium und Calcium
 
 ## ❌ Con
 
-- Relativ viel Zucker (~54 g), vor allem aus Datteln und Banane
-- Suchard-Express ist gesüßtes Kakaogetränkpulver → enthält zugesetzten Zucker (reiner Kakao wäre die gesündere Alternative)
+- Relativ viel Zucker (~49 g), vor allem aus Datteln und Banane
 - Cottage Cheese bringt etwas Salz mit
 - Dickt durch Flohsamen und Chia schnell ein
