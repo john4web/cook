@@ -31,16 +31,16 @@ Mittagessen
 
 ## ⚖️ Nährwerte
 
-| Makro                | Menge     |
-|----------------------|-----------|
-| Kalorien             | 1339 kcal |
-| Protein              | 60,5 g    |
-| Fett                 | 72,4 g    |
-| davon ges. Fett      | 12,9 g    |
-| Kohlenhydrate        | 106,0 g   |
-| davon Zucker         | 16,0 g    |
-| Ballaststoffe        | 18,0 g    |
-| Salz                 | 5,9 g     |
+| Makro           | Anteil    |
+| --------------- | --------- |
+| Kalorien        | 1339 kcal |
+| Protein         | 60,5 g    |
+| Fett            | 72,4 g    |
+| davon ges. Fett | 12,9 g    |
+| Carbs           | 106,0 g   |
+| davon Zucker    | 16,0 g    |
+| Ballaststoffe   | 18,0 g    |
+| Salz            | 5,9 g     |
 
 ## ⏰ Zubereitungszeit
 

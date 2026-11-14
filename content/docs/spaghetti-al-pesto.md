@@ -25,11 +25,11 @@ Mittagessen
 
 1. 1,25 Liter Wasser und 1 TL Salz in großen Topf geben und kochen.
 2. Nudeln in kochendes Wasser geben und 11 Minuten lang kochen.
-2. Pinienkerne vorsichtig anrösten.
-3. Einen Schöpfer Nudelwasser aufheben und Nudeln absieben.
-4. Nudeln zurück in den Topf geben und mit Pesto, Parmesan, Pinienkerne, Salz, Basilikum und geriebener Zitronenschale vermischen.
-5. Nudelwasser dazugeben damit alles cremig wird.
-6. Genießen!
+3. Pinienkerne vorsichtig anrösten.
+4. Einen Schöpfer Nudelwasser aufheben und Nudeln absieben.
+5. Nudeln zurück in den Topf geben und mit Pesto, Parmesan, Pinienkerne, Salz, Basilikum und geriebener Zitronenschale vermischen.
+6. Nudelwasser dazugeben damit alles cremig wird.
+7. Genießen!
 
 ## ⚖️ Nährwerte
 
@@ -60,7 +60,7 @@ ca. 6,50€ (Stand: April 2026)
 
 9 von 10 Sterne
 
-Reich an Ballaststoffen und Proteinen, viele gesunde Fette aus Pinienkernen und Olivenöl, moderater Salz- und Zuckeranteil!
+Reich an Ballaststoffen und Proteinen, viele gesunde Fette aus Pinienkernen und Pesto, moderater Salz- und Zuckeranteil!
 
 ## ✅ Pro
 
@@ -72,4 +72,4 @@ Reich an Ballaststoffen und Proteinen, viele gesunde Fette aus Pinienkernen und 
 
 ## ❌ Con
 
-Relativ hoher Fettgehalt (vor allem aufgrund von Pesto und Pinienkernen)
+- Relativ hoher Fettgehalt (vor allem aufgrund von Pesto und Pinienkernen)

@@ -36,7 +36,7 @@ Abendessen
 2. Kidneybohnen waschen
 3. Thunfisch abtropfen
 4. Gurke & Radieschen schneiden
-3. Alles mischen und genießen!
+5. Alles mischen und genießen!
 
 ## ⚖️ Nährwerte
 
@@ -53,7 +53,7 @@ Abendessen
 
 ## ⏰ Zubereitungszeit
 
-ca. ? Minuten
+ca. 20 Minuten
 
 ## 🥣 Portionen
 
@@ -61,7 +61,7 @@ ca. ? Minuten
 
 ## 💵 Preis
 
-ca. ?€ (Stand: März 2026)
+ca. 6€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
