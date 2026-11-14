@@ -19,7 +19,7 @@ Abendessen
 - 2 EL Olivenöl
 - 200g-Dose Kidneybohnen (125g abgetropft)
 - 1 EL Petersilie
-- 1,5 TL Sojasauce
+- 1/2 TL salzreduzierte Sojasauce
 - 1 TL Tomatenmark
 - 1/4 TL Pfeffer
 - 1/2 TL Paprikapulver
@@ -34,7 +34,7 @@ Abendessen
 
 1. Eier kochen und schneiden
 2. Kidneybohnen waschen
-3. Thunfisch abtropfen
+3. Thunfisch abtropfen und kurz mit Wasser abspülen (spült einen Teil der Salzlake weg)
 4. Gurke & Radieschen schneiden
 5. Alles mischen und genießen!
 
@@ -49,7 +49,7 @@ Abendessen
 | Carbs           | 69 g     |
 | davon Zucker    | 11 g     |
 | Ballaststoffe   | 27 g     |
-| Salz            | 5,2 g    |
+| Salz            | 4,2 g    |
 
 ## ⏰ Zubereitungszeit
 
@@ -65,9 +65,9 @@ ca. 6€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-7,5 von 10 Sterne
+8,5 von 10 Sterne
 
-Bohnen, Thunfisch, Eier, Vollkornbrot und Gemüse liefern sehr viele Ballaststoffe und Protein – deutlicher Abzug für ~5,2 g Salz (Thunfisch in Salzlake, Brot, Sojasoße).
+Bohnen, Thunfisch, Eier, Vollkornbrot und Gemüse liefern sehr viele Ballaststoffe und Protein – Abzug für ~4,2 g Salz, das jetzt vor allem aus Thunfisch und Brot kommt.
 
 ## ✅ Pro
 
@@ -79,6 +79,6 @@ Bohnen, Thunfisch, Eier, Vollkornbrot und Gemüse liefern sehr viele Ballaststof
 
 ## ❌ Con
 
-- Hoher Salzgehalt (Sojasauce, Thunfisch, Brot, Senf) → für Bluthochdruck ungünstig
+- Recht hoher Salzgehalt (~4,2 g), vor allem aus Thunfisch in Salzlake und Brot
 - Wenig frisches Gemüse im Verhältnis zur Gesamtmenge
 - Thunfisch-Quecksilber-Thematik beachten

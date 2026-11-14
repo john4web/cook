@@ -14,7 +14,8 @@ Mittagessen
 ## 🗒️Zutaten
 
 **Marinade:**
-- 3,5 EL Sojasoße
+- 2 EL salzreduzierte Sojasoße
+- 1,5 EL Wasser
 - 1,5 EL Ahornsirup
 - 2 TL Paprikapulver edelsüß
 - 1 TL Ingwerpulver
@@ -39,7 +40,7 @@ Mittagessen
 
 ## 🔪 Zubereitung
 
-1. Marinade aus Sojasoße, Ahornsirup, Paprikapulver, Ingwerpulver, Sesamöl, Limettensaft und Sesam machen.  
+1. Marinade aus Sojasoße, Wasser, Ahornsirup, Paprikapulver, Ingwerpulver, Sesamöl, Limettensaft und Sesam machen.  
 2. Tempeh in Streifen schneiden und 10 Minuten lang mit Sieb in Topf dämpfen  
 3. Tempeh mindestens eine halbe Stunde (bestenfalls 12 Stunden über Nacht in Kühlschrank) in Marinade liegen lassen
 4. Hirse in Mikrowelle in Wasser kochen
@@ -65,7 +66,7 @@ Mittagessen
 | Carbs           | 129,10 g     |
 | davon Zucker    | 32,10 g      |
 | Ballaststoffe   | 38,00 g      |
-| Salz            | 10,05 g      |
+| Salz            | 4,20 g       |
 
 
 ## ⏰ Zubereitungszeit
@@ -84,9 +85,9 @@ ca. 13€ (Stand: April 2026)
 
 ## ⭐ Gesundheits-Score
 
-7 von 10 Sterne
+9 von 10 Sterne
 
-Fermentierter Tempeh, Kichererbsen, Hirse, viel Gemüse und Chia sind hervorragend – deutlicher Abzug für ~5 g Salz pro Portion (3,5 EL Sojasoße) und den Ahornsirup.
+Fermentierter Tempeh, Kichererbsen, Hirse, viel Gemüse und Chia sind hervorragend, und mit salzreduzierter Sojasoße bleibt das Salz moderat (~2,1 g pro Portion) – Abzug vor allem für den Ahornsirup.
 
 ## ✅ Pro
 
@@ -100,4 +101,5 @@ Fermentierter Tempeh, Kichererbsen, Hirse, viel Gemüse und Chia sind hervorrage
 
 ## ❌ Con
 
-- hoher Salzgehalt durch Sojasoße
+- etwas Salz (~2,1 g pro Portion) durch die Sojasoße
+- Ahornsirup ist zugesetzter Zucker

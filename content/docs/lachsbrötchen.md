@@ -20,8 +20,6 @@ Mittagessen
 - Etwas Schnittlauch
 - Etwas Dill
 - 1/4 tl Pfeffer
-- 1/8 tl Salz
-- 1/8 tl Glutamat
 - 1/4 tl Paprikapulver
 - Etwas Kren
 - Etwas Zitronensaft
@@ -33,7 +31,7 @@ Mittagessen
 
 1. Karotten, Radieschen und Gurken hacheln
 2. Magertopfen mit dem gehachelten Gemüse mischen
-3. Schnittlauch, Dill, Pfeffer, Salz, Glutamat und Paprikapulver dazumischen
+3. Schnittlauch, Dill, Pfeffer und Paprikapulver dazumischen (kein Salz nötig – Räucherlachs und Brot sind bereits salzig)
 4. 9 Brote damit bestreichen
 5. Räucherlachs auf die bestrichenen Brote legen
 6. Den Räucherlachs mit Zitronensaft beträufeln und mit Sonnenblumenkerne und Kren bestreuen
@@ -49,7 +47,7 @@ Mittagessen
 | Carbs           | 252,03 g     |
 | davon Zucker    | 24,83 g      |
 | Ballaststoffe   | 55,80 g      |
-| Salz            | ca. 12,0 g   |
+| Salz            | ca. 11,1 g   |
 
 ## ⏰ Zubereitungszeit
 
@@ -67,7 +65,7 @@ ca. 12€ (Stand: November 2026)
 
 7,5 von 10 Sterne
 
-Viel Vollkorn, Gemüse, Topfen und Omega-3 aus dem Lachs bei kaum gesättigtem Fett – deutlicher Abzug für ~6 g Salz pro Portion (Räucherlachs, Brot, Glutamat) und weil Räucherfisch ein verarbeitetes Produkt ist.
+Viel Vollkorn, Gemüse, Topfen und Omega-3 aus dem Lachs bei kaum gesättigtem Fett – deutlicher Abzug für ~5,5 g Salz pro Portion (Räucherlachs und Brot) und weil Räucherfisch ein verarbeitetes Produkt ist.
 
 ## ✅ Pro
 
@@ -80,6 +78,5 @@ Viel Vollkorn, Gemüse, Topfen und Omega-3 aus dem Lachs bei kaum gesättigtem F
 
 ## ❌ Con
 
-- Sehr hoher Salzgehalt (~6 g pro Portion → über der Tagesempfehlung), vor allem durch Räucherlachs und Brot
-- Glutamat und zusätzliches Salz sind nicht nötig und könnten weggelassen werden
+- Sehr hoher Salzgehalt (~5,5 g pro Portion → über der Tagesempfehlung), fast nur durch Räucherlachs und Brot
 - Sehr kohlenhydratlastig durch die große Brotmenge

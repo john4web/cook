@@ -15,7 +15,6 @@ Mittagessen
 
 Ratatouille:
 - 160g Quinoa (+ 400ml Wasser)
-- 1 Suppenwürfel
 - 1 EL Rapsöl
 - 2 mittelgroße Zucchini (ca. 470g)
 - 2 Knoblauchzehen
@@ -39,7 +38,7 @@ Joghurtsoße:
 
 ## 🔪 Zubereitung
 
-1. Quinoa waschen und mit Suppenwürfel kochen
+1. Quinoa waschen und in Wasser kochen (ohne Suppenwürfel – der Halloumi bringt genug Salz mit)
 2. Zwiebel würfeln und im Wok in Rapsöl glasig braten
 3. Knoblauch pressen und ein bisschen mitbraten
 4. Tomatenmark dazugeben und etwas mitbraten
@@ -47,7 +46,7 @@ Joghurtsoße:
 6. Cherry-Tomaten halbieren oder vierteln (je nach Größe) und mitbraten
 7. Passierte Tomaten und Agavendicksaft dazugeben und köcheln lassen
 8. Mit Oregano, Pfeffer und Thymian würzen 
-9. Daneben Halloumi mit Rapsöl in Pfanne goldgelb braten
+9. Daneben Halloumi in Scheiben schneiden, kurz mit Wasser abspülen, trocken tupfen und mit Rapsöl in der Pfanne goldgelb braten
 10. Joghurt mit Dill und Zitronensaft mischen
 11. Anrichten, servieren und genießen!
 
@@ -62,7 +61,7 @@ Joghurtsoße:
 | Kohlenhydrate   |     163.02 g |
 | davon Zucker    |      54.93 g |
 | Ballaststoffe   |      23.34 g |
-| Salz            |      11.43 g |
+| Salz            |       8.03 g |
 
 
 ## ⏰ Zubereitungszeit
@@ -79,9 +78,9 @@ ca. 11,50€ (Stand: Juni 2026)
 
 ## ⭐ Gesundheits-Score
 
-6 von 10 Sterne
+7 von 10 Sterne
 
-Viel Gemüse und Quinoa, aber sehr salzig (~5,7 g pro Portion – mehr als die WHO-Tagesgrenze von 5 g) und sehr viel gesättigtes Fett (~22 g pro Portion) durch Halloumi und Suppenwürfel.
+Viel Gemüse und Quinoa, ohne Suppenwürfel – aber durch den Halloumi immer noch salzig (~4 g pro Portion) und sehr viel gesättigtes Fett (~22 g pro Portion).
 
 ## ✅ Pro
 
@@ -93,7 +92,7 @@ Viel Gemüse und Quinoa, aber sehr salzig (~5,7 g pro Portion – mehr als die W
 
 ## ❌ Con
 
-- Sehr hoher Salzgehalt (~11 g) → deutlich über empfohlenem Tageswert
+- Hoher Salzgehalt (~4 g pro Portion), fast ausschließlich aus dem Halloumi
 - Relativ hoher Anteil gesättigter Fette (~44 g gesamt Fett) → kommt primär vom Halloumi
 - Energie sehr “fettlastig” → große Kalorienmenge kommt stark aus Fett statt Carbs
 - Kaum Omega-3 / entzündungshemmende Fette
