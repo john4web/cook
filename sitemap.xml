@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://john4web.github.io/cook/docs/hanf-protein-pancakes/</loc>
-  </url><url>
     <loc>https://john4web.github.io/cook/categories/abendessen/</loc>
   </url><url>
     <loc>https://john4web.github.io/cook/docs/amaranth-porridge/</loc>
@@ -59,6 +57,8 @@
     <loc>https://john4web.github.io/cook/docs/haferkleie-joghurt/</loc>
   </url><url>
     <loc>https://john4web.github.io/cook/docs/halloumi-ratatouille/</loc>
+  </url><url>
+    <loc>https://john4web.github.io/cook/docs/hanf-protein-pancakes/</loc>
   </url><url>
     <loc>https://john4web.github.io/cook/docs/heidelbeer-milchshake/</loc>
   </url><url>
