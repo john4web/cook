@@ -1906,6 +1906,10 @@
           &lt;td&gt;768.75 kcal&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td&gt;Protein&lt;/td&gt;
+          &lt;td&gt;28.75 g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td&gt;Fett&lt;/td&gt;
           &lt;td&gt;63.75 g&lt;/td&gt;
       &lt;/tr&gt;
@@ -1922,8 +1926,8 @@
           &lt;td&gt;7.75 g&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;Eiweiß&lt;/td&gt;
-          &lt;td&gt;28.75 g&lt;/td&gt;
+          &lt;td&gt;Ballaststoffe&lt;/td&gt;
+          &lt;td&gt;12.50 g&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Salz&lt;/td&gt;
@@ -2168,7 +2172,7 @@
           &lt;td&gt;20,52 g&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;Kohlenhydrate&lt;/td&gt;
+          &lt;td&gt;Carbs&lt;/td&gt;
           &lt;td&gt;107,75 g&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -2207,15 +2211,23 @@
 &lt;li&gt;70g Erdbeeren&lt;/li&gt;
 &lt;li&gt;1/2 TL Backpulver&lt;/li&gt;
 &lt;li&gt;1 Banane&lt;/li&gt;
-&lt;li&gt;70g heidelbeeren&lt;/li&gt;
+&lt;li&gt;70g Heidelbeeren&lt;/li&gt;
 &lt;li&gt;25g Proteinpulver geschmacksneutral&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;-zubereitung&#34;&gt;🔪 Zubereitung&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Haferflocken mahlen&lt;/li&gt;
+&lt;li&gt;Erdnussbutter in der Mikrowelle schmelzen&lt;/li&gt;
+&lt;li&gt;Milch, Backpulver, Proteinpulver, Eier, Agavendicksaft, Salz, Kakaopulver und Haferflocken mit dem Mixer in Rührschüssel mixen&lt;/li&gt;
+&lt;li&gt;in der Mikrowelle backen bis alles gut durch ist (5 x 2 Minuten lang)&lt;/li&gt;
+&lt;li&gt;Mit Banane, Erdbeeren und Heidelbeeren toppen&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;-nährwerte&#34;&gt;⚖️ Nährwerte&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;Makro&lt;/th&gt;
-          &lt;th&gt;Menge&lt;/th&gt;
+          &lt;th&gt;Anteil&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -2236,7 +2248,7 @@
           &lt;td&gt;11,63 g&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;Kohlenhydrate&lt;/td&gt;
+          &lt;td&gt;Carbs&lt;/td&gt;
           &lt;td&gt;103,57 g&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -2253,8 +2265,8 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;-zubereitung&#34;&gt;🔪 Zubereitung&lt;/h2&gt;
-&lt;p&gt;⏰ 35 Minuten&lt;/p&gt;</description>
+&lt;h2 id=&#34;-zubereitungszeit&#34;&gt;⏰ Zubereitungszeit&lt;/h2&gt;
+&lt;p&gt;ca. 35 Minuten&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spaghetti al pesto</title>
