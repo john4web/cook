@@ -13,46 +13,47 @@ Frühstück
 
 ## 🗒️Zutaten
 
-- 40g Haferkleie
-- 500g Naturjoghurt (3,6% Fett)
-- 1 kleine Avocado (175g mit Kern)
-- 1 EL Leinöl
-- 1 kleiner Apfel (155g entkernt)
-- 30g Johannisbeere
-- 30g Heidelbeeren
-- 30g Brombeeren
-- 30g Erdbeeren
-- 30g Himbeeren
-- 20g Walnüsse
-- 1 TL Chiasamen
-- 20g Proteinpulver
-- 20g Haferflocken
-- 1/8 TL Ceylon-Zimt
-- 1/8 TL Kakao
+- 250g Magertopfen
+- 250g Naturjoghurt (3,6% Fett)
+- 30g Proteinpulver (Vanille)
+- 1 reife Banane (ca. 120g geschält)
+- 45g Haferflocken
+- 15g Haferkleie
+- 100g Beeren (Heidelbeeren, Himbeeren, Erdbeeren – TK oder frisch)
+- 25g Walnüsse
+- 1 EL Chiasamen (10g)
+- 1/2 TL Ceylon-Zimt
+- 1 Prise Salz
 
 ## 🔪 Zubereitung
 
-1. Apfel und Avocado schneiden
-2. Alle Zutaten mischen
-3. Servieren und Genießen!
+1. Walnüsse grob hacken und 2–3 Minuten in einer Pfanne ohne Fett rösten, bis sie duften
+2. Banane mit einer Gabel zerdrücken
+3. Topfen, Joghurt, Proteinpulver, Banane, Zimt und Salz cremig verrühren
+4. Haferflocken, Haferkleie und Chiasamen unterrühren
+5. Beeren und geröstete Walnüsse darauf verteilen
+6. Sofort servieren und genießen!
+
+_Tipp: TK-Beeren am Vorabend in den Kühlschrank stellen – aufgetaut geben sie einen süßen Saft ab, der sich schön mit dem Topfen vermischt._
+
+_Tipp: Haferkleie erst kurz vor dem Essen untermischen, sonst wird sie schleimig._
 
 ## ⚖️ Nährwerte
 
 | Makro           |       Anteil |
 | --------------- | -----------: |
-| Kalorien        | 1341,48 kcal |
-| Protein         |      50,50 g |
-| Fett            |      78,05 g |
-| davon ges. Fett |      20,60 g |
-| Carbs           |     111,09 g |
-| davon Zucker    |      52,47 g |
-| Ballaststoffe   |      30,56 g |
-| Salz            |       0,86 g |
-
+| Kalorien        | 1029,50 kcal |
+| Protein         |      79,90 g |
+| Fett            |      35,70 g |
+| davon ges. Fett |      10,00 g |
+| Carbs           |      89,80 g |
+| davon Zucker    |      47,80 g |
+| Ballaststoffe   |      18,30 g |
+| Salz            |       0,97 g |
 
 ## ⏰ Zubereitungszeit
 
-ca. 30 Minuten
+ca. 10 Minuten
 
 ## 🥣 Portionen
 
@@ -60,23 +61,26 @@ ca. 30 Minuten
 
 ## 💵 Preis
 
-ca. 9€ (Stand: Juni 2026)
+ca. 6€ (Stand: November 2026)
 
 ## ⭐ Gesundheits-Score
 
-9 von 10 Sterne
+8,5 von 10 Sterne
+
+Cremiges, mild-süßes Frühstück mit sehr viel Protein. Die Süße kommt von Banane, Beeren und Vanille-Proteinpulver statt von zugesetztem Zucker.
 
 ## ✅ Pro
 
-- Sehr hohe Nährstoffdichte durch viele unterschiedliche Lebensmittel (Beeren, Nüsse, Samen, Joghurt, Vollkornprodukte)
-- Gutes Proteinprofil (~50 g) durch Joghurt + Proteinpulver + Hafer + Nüsse → gut für Sättigung und Muskelaufbau
-- Sehr viele Ballaststoffe (~30 g) → fördert Verdauung und lange Sättigung
-- Hochwertige Fette (~78 g):
-- Leinöl + Walnüsse + Chia liefern viele ungesättigte Fettsäuren (inkl. Omega-3)
-- Viele Mikronährstoffe: Beeren: Antioxidantien; Nüsse: Magnesium, Vitamin E; Joghurt: Calcium; Obst: Kalium, Vitamin C;
-- Sehr gute Sättigung durch Kombination aus Fett + Ballaststoffen + Protein
-- Langsame Energieabgabe durch Mischung aus Fett + komplexen Carbs (Haferkleie, Haferflocken)
+- Sehr viel Protein (~80 g) durch Topfen, Joghurt und Proteinpulver → ideal für Sättigung und Muskelaufbau
+- Viele Ballaststoffe (~18 g) aus Hafer, Haferkleie, Chia und Beeren → gut für Verdauung und lange Sättigung
+- Omega-3-Fettsäuren aus Walnüssen und Chiasamen
+- Beeren liefern Antioxidantien und Vitamin C, die Banane Kalium
+- Calcium aus Topfen und Joghurt, lebende Milchsäurebakterien aus dem Joghurt
+- Kein zugesetzter Zucker
+- Langsame Energieabgabe durch die Kombination aus Protein, Ballaststoffen und komplexen Carbs
 
 ## ❌ Con
 
-- hoher Anteil an Fruchtzucker durch große Obstmenge
+- Immer noch recht viel Zucker (~48 g), allerdings nur aus Obst und Milchzucker
+- Proteinpulver ist ein verarbeitetes Produkt
+- Mit ca. 1000 kcal eine sehr große Portion – eher als Hauptmahlzeit gedacht; für ein leichteres Frühstück die Mengen halbieren
