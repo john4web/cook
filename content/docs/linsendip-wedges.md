@@ -18,7 +18,7 @@ Wedges:
 - 1 EL Olivenöl
 - 1,5 TL getrockneter Rosmarin
 - 1/2 TL Pfeffer
-- 3/4 TL Salz
+- 3/8 TL Salz
 
 Linsendip:
 - 1 Zwiebel
@@ -27,7 +27,7 @@ Linsendip:
 - 120g rote Linsen
 - 300ml Wasser
 - 1 EL Olivenöl
-- 1 TL Currypulver
+- 3/4 TL Currypulver
 - 1/2 TL Ingwer
 - 1/8 TL Kurkuma
 - 1/8 TL Pfeffer
@@ -53,7 +53,7 @@ Linsendip:
 | Carbs              | 151.90 g            |
 | davon Zucker       | 8.80 g              |
 | Ballaststoffe      | 22.40 g             |
-| Salz               | 2.10 g              |
+| Salz               | 1.10 g              |
 
 ## ⏰ Zubereitungszeit
 
@@ -71,7 +71,7 @@ ca. 2,50€ (Stand: März 2026)
 
 9 von 10 Sterne
 
-Rote Linsen, Kartoffeln und Olivenöl liefern viele Ballaststoffe und pflanzliches Protein bei sehr wenig gesättigtem Fett – kleiner Abzug für ~2 g Salz und wenig Gemüse.
+Rote Linsen, Kartoffeln und Olivenöl liefern viele Ballaststoffe und pflanzliches Protein bei sehr wenig gesättigtem Fett – kleiner Abzug für wenig Gemüse.
 
 ## ✅ Pro
 
